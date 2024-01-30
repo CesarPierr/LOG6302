@@ -1,0 +1,30 @@
+digraph ast {
+node [shape=none];
+9294 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9294</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>_deprecated_file</TD></TR></TABLE>>];
+9295 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9295</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>basename</TD></TR></TABLE>>];
+9296 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9296</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>__FILE__</TD></TR></TABLE>>];
+9297 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9297</TD><TD border='0'><B>ArgumentList</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>__FILE__</TD></TR></TABLE>>];
+9297 -> 9296 [weight=2];
+9298 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9298</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>basename</TD></TR></TABLE>>];
+9298 -> 9295 [weight=2];
+9298 -> 9297 [weight=2];
+9299 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9299</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>2.5.0</TD></TR></TABLE>>];
+9300 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9300</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>wp-adminincludesupgrade.php</TD></TR></TABLE>>];
+9301 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9301</TD><TD border='0'><B>ArgumentList</B></TD></TR></TABLE>>];
+9301 -> 9298 [weight=2];
+9301 -> 9299 [weight=2];
+9301 -> 9300 [weight=2];
+9302 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9302</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>_deprecated_file</TD></TR></TABLE>>];
+9302 -> 9294 [weight=2];
+9302 -> 9301 [weight=2];
+9303 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9303</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>ABSPATH</TD></TR></TABLE>>];
+9304 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9304</TD><TD border='0'><B>BinOP</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>.</TD></TR></TABLE>>];
+9304 -> 9303 [weight=2];
+9304 -> 9305 [weight=2];
+9305 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9305</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>wp-adminincludesupgrade.php</TD></TR></TABLE>>];
+9306 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9306</TD><TD border='0'><B>RequireOnceStatement</B></TD></TR></TABLE>>];
+9306 -> 9304 [weight=2];
+9307 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9307</TD><TD border='0'><B>Start</B></TD></TR></TABLE>>];
+9307 -> 9302 [weight=2];
+9307 -> 9306 [weight=2];
+}

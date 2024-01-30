@@ -1,0 +1,18 @@
+[
+  ["node_root",24390],
+  ["filename","./wp-includes/js/jquery/jquery.serialize-object.js"],
+  ["type",24389,"Html"],
+  ["parsetree_pt",24389,2],
+  ["line_begin",24389,1],
+  ["line_end",24389,31],
+  ["column_begin",24389,1],
+  ["column_end",24389,11],
+  ["token_begin",24389,0],
+  ["token_end",24389,98],
+  ["type",24390,"Start"],
+  ["parsetree_pt",24390,0],
+  ["ast_succ",24390,24389],
+  ["line_end",24390,31],
+  ["column_end",24390,12],
+  ["token_end",24390,99]
+]

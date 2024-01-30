@@ -1,0 +1,26 @@
+digraph ast {
+node [shape=none];
+8500 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8500</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>dirname</TD></TR></TABLE>>];
+8501 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8501</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>__FILE__</TD></TR></TABLE>>];
+8502 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8502</TD><TD border='0'><B>ArgumentList</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>__FILE__</TD></TR></TABLE>>];
+8502 -> 8501 [weight=2];
+8503 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8503</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>dirname</TD></TR></TABLE>>];
+8503 -> 8500 [weight=2];
+8503 -> 8502 [weight=2];
+8504 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8504</TD><TD border='0'><B>BinOP</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>.</TD></TR></TABLE>>];
+8504 -> 8503 [weight=2];
+8504 -> 8505 [weight=2];
+8505 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8505</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>admin.php</TD></TR></TABLE>>];
+8506 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8506</TD><TD border='0'><B>RequireOnceStatement</B></TD></TR></TABLE>>];
+8506 -> 8504 [weight=2];
+8507 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8507</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>ABSPATH</TD></TR></TABLE>>];
+8508 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8508</TD><TD border='0'><B>BinOP</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>.</TD></TR></TABLE>>];
+8508 -> 8507 [weight=2];
+8508 -> 8509 [weight=2];
+8509 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8509</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>wp-admintheme-editor.php</TD></TR></TABLE>>];
+8510 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8510</TD><TD border='0'><B>RequireStatement</B></TD></TR></TABLE>>];
+8510 -> 8508 [weight=2];
+8511 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>8511</TD><TD border='0'><B>Start</B></TD></TR></TABLE>>];
+8511 -> 8506 [weight=2];
+8511 -> 8510 [weight=2];
+}

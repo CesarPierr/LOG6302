@@ -1,0 +1,18 @@
+[
+  ["node_root",330874],
+  ["filename","./wp-admin/js/edit-comments.js"],
+  ["type",330873,"Html"],
+  ["parsetree_pt",330873,2],
+  ["line_begin",330873,1],
+  ["line_end",330873,970],
+  ["column_begin",330873,1],
+  ["column_end",330873,11],
+  ["token_begin",330873,0],
+  ["token_end",330873,3383],
+  ["type",330874,"Start"],
+  ["parsetree_pt",330874,0],
+  ["ast_succ",330874,330873],
+  ["line_end",330874,970],
+  ["column_end",330874,12],
+  ["token_end",330874,3384]
+]

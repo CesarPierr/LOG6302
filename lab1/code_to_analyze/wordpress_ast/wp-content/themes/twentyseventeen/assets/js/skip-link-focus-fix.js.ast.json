@@ -1,0 +1,18 @@
+[
+  ["node_root",12361],
+  ["filename","./wp-content/themes/twentyseventeen/assets/js/skip-link-focus-fix.js"],
+  ["type",12360,"Html"],
+  ["parsetree_pt",12360,2],
+  ["line_begin",12360,1],
+  ["line_end",12360,31],
+  ["column_begin",12360,1],
+  ["column_end",12360,5],
+  ["token_begin",12360,0],
+  ["token_end",12360,89],
+  ["type",12361,"Start"],
+  ["parsetree_pt",12361,0],
+  ["ast_succ",12361,12360],
+  ["line_end",12361,31],
+  ["column_end",12361,6],
+  ["token_end",12361,90]
+]

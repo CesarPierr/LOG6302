@@ -1,0 +1,18 @@
+[
+  ["node_root",19832],
+  ["filename","./wp-includes/css/wp-auth-check-rtl.min.css"],
+  ["type",19831,"Html"],
+  ["parsetree_pt",19831,2],
+  ["line_begin",19831,1],
+  ["line_end",19831,1],
+  ["column_begin",19831,1],
+  ["column_end",19831,2015],
+  ["token_begin",19831,0],
+  ["token_end",19831,40],
+  ["type",19832,"Start"],
+  ["parsetree_pt",19832,0],
+  ["ast_succ",19832,19831],
+  ["line_end",19832,1],
+  ["column_end",19832,2015],
+  ["token_end",19832,41]
+]

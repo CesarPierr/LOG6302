@@ -1,0 +1,18 @@
+[
+  ["node_root",19834],
+  ["filename","./wp-includes/css/wp-embed-template-ie.css"],
+  ["type",19833,"Html"],
+  ["parsetree_pt",19833,2],
+  ["line_begin",19833,1],
+  ["line_end",19833,19],
+  ["column_begin",19833,1],
+  ["column_end",19833,1],
+  ["token_begin",19833,0],
+  ["token_end",19833,27],
+  ["type",19834,"Start"],
+  ["parsetree_pt",19834,0],
+  ["ast_succ",19834,19833],
+  ["line_end",19834,19],
+  ["column_end",19834,2],
+  ["token_end",19834,28]
+]

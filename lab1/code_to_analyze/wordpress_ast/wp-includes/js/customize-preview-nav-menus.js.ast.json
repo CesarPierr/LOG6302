@@ -1,0 +1,18 @@
+[
+  ["node_root",196023],
+  ["filename","./wp-includes/js/customize-preview-nav-menus.js"],
+  ["type",196022,"Html"],
+  ["parsetree_pt",196022,2],
+  ["line_begin",196022,1],
+  ["line_end",196022,437],
+  ["column_begin",196022,1],
+  ["column_end",196022,35],
+  ["token_begin",196022,0],
+  ["token_end",196022,1775],
+  ["type",196023,"Start"],
+  ["parsetree_pt",196023,0],
+  ["ast_succ",196023,196022],
+  ["line_end",196023,437],
+  ["column_end",196023,36],
+  ["token_end",196023,1776]
+]

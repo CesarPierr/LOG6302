@@ -1,0 +1,18 @@
+[
+  ["node_root",72205],
+  ["filename","./wp-includes/js/mediaelement/wp-mediaelement.css"],
+  ["type",72205,"Start"],
+  ["parsetree_pt",72205,0],
+  ["ast_succ",72205,72204],
+  ["line_end",72205,288],
+  ["column_end",72205,2],
+  ["token_end",72205,502],
+  ["type",72204,"Html"],
+  ["parsetree_pt",72204,2],
+  ["line_begin",72204,1],
+  ["line_end",72204,288],
+  ["column_begin",72204,1],
+  ["column_end",72204,1],
+  ["token_begin",72204,0],
+  ["token_end",72204,501]
+]

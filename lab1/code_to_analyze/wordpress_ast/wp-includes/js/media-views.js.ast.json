@@ -1,0 +1,18 @@
+[
+  ["node_root",908984],
+  ["filename","./wp-includes/js/media-views.js"],
+  ["type",908984,"Start"],
+  ["parsetree_pt",908984,0],
+  ["ast_succ",908984,908983],
+  ["line_end",908984,8579],
+  ["column_end",908984,17],
+  ["token_end",908984,25709],
+  ["type",908983,"Html"],
+  ["parsetree_pt",908983,2],
+  ["line_begin",908983,1],
+  ["line_end",908983,8579],
+  ["column_begin",908983,1],
+  ["column_end",908983,16],
+  ["token_begin",908983,0],
+  ["token_end",908983,25708]
+]

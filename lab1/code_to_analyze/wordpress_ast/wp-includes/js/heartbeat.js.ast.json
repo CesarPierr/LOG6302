@@ -1,0 +1,18 @@
+[
+  ["node_root",252618],
+  ["filename","./wp-includes/js/heartbeat.js"],
+  ["type",252618,"Start"],
+  ["parsetree_pt",252618,0],
+  ["ast_succ",252618,252617],
+  ["line_end",252618,749],
+  ["column_end",252618,22],
+  ["token_end",252618,2756],
+  ["type",252617,"Html"],
+  ["parsetree_pt",252617,2],
+  ["line_begin",252617,1],
+  ["line_end",252617,749],
+  ["column_begin",252617,1],
+  ["column_end",252617,21],
+  ["token_begin",252617,0],
+  ["token_end",252617,2755]
+]

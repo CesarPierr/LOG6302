@@ -1,0 +1,18 @@
+[
+  ["node_root",72233],
+  ["filename","./wp-includes/js/tw-sack.js"],
+  ["type",72233,"Start"],
+  ["parsetree_pt",72233,0],
+  ["ast_succ",72233,72232],
+  ["line_end",72233,193],
+  ["column_end",72233,2],
+  ["token_end",72233,503],
+  ["type",72232,"Html"],
+  ["parsetree_pt",72232,2],
+  ["line_begin",72232,1],
+  ["line_end",72232,193],
+  ["column_begin",72232,1],
+  ["column_end",72232,1],
+  ["token_begin",72232,0],
+  ["token_end",72232,502]
+]

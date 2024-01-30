@@ -1,0 +1,18 @@
+[
+  ["node_root",5033],
+  ["filename","./wp-admin/js/custom-background.js"],
+  ["type",5032,"Html"],
+  ["parsetree_pt",5032,2],
+  ["line_begin",5032,1],
+  ["line_end",5032,83],
+  ["column_begin",5032,1],
+  ["column_end",5032,11],
+  ["token_begin",5032,0],
+  ["token_end",5032,256],
+  ["type",5033,"Start"],
+  ["parsetree_pt",5033,0],
+  ["ast_succ",5033,5032],
+  ["line_end",5033,83],
+  ["column_end",5033,12],
+  ["token_end",5033,257]
+]

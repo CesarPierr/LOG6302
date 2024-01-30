@@ -1,0 +1,18 @@
+[
+  ["node_root",533],
+  ["filename","./wp-admin/css/color-picker-rtl.min.css"],
+  ["type",532,"Html"],
+  ["parsetree_pt",532,2],
+  ["line_begin",532,1],
+  ["line_end",532,1],
+  ["column_begin",532,1],
+  ["column_end",532,2270],
+  ["token_begin",532,0],
+  ["token_end",532,59],
+  ["type",533,"Start"],
+  ["parsetree_pt",533,0],
+  ["ast_succ",533,532],
+  ["line_end",533,1],
+  ["column_end",533,2270],
+  ["token_end",533,60]
+]

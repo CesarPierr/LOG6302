@@ -1,0 +1,28 @@
+digraph ast {
+node [shape=none];
+9027 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9027</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>define</TD></TR></TABLE>>];
+9028 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9028</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>IS_PROFILE_PAGE</TD></TR></TABLE>>];
+9029 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9029</TD><TD border='0'><B>True</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>true</TD></TR></TABLE>>];
+9030 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9030</TD><TD border='0'><B>ArgumentList</B></TD></TR></TABLE>>];
+9030 -> 9028 [weight=2];
+9030 -> 9029 [weight=2];
+9031 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9031</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>define</TD></TR></TABLE>>];
+9031 -> 9027 [weight=2];
+9031 -> 9030 [weight=2];
+9032 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9032</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>dirname</TD></TR></TABLE>>];
+9033 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9033</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>__FILE__</TD></TR></TABLE>>];
+9034 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9034</TD><TD border='0'><B>ArgumentList</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>__FILE__</TD></TR></TABLE>>];
+9034 -> 9033 [weight=2];
+9035 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9035</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>dirname</TD></TR></TABLE>>];
+9035 -> 9032 [weight=2];
+9035 -> 9034 [weight=2];
+9036 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9036</TD><TD border='0'><B>BinOP</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>.</TD></TR></TABLE>>];
+9036 -> 9035 [weight=2];
+9036 -> 9037 [weight=2];
+9037 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9037</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>user-edit.php</TD></TR></TABLE>>];
+9038 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9038</TD><TD border='0'><B>RequireOnceStatement</B></TD></TR></TABLE>>];
+9038 -> 9036 [weight=2];
+9039 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>9039</TD><TD border='0'><B>Start</B></TD></TR></TABLE>>];
+9039 -> 9031 [weight=2];
+9039 -> 9038 [weight=2];
+}

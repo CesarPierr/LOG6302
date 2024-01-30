@@ -1,0 +1,18 @@
+[
+  ["node_root",92699],
+  ["filename","./wp-admin/css/colors/midnight/colors.min.css"],
+  ["type",92699,"Start"],
+  ["parsetree_pt",92699,0],
+  ["ast_succ",92699,92698],
+  ["line_end",92699,1],
+  ["column_end",92699,11475],
+  ["token_end",92699,496],
+  ["type",92698,"Html"],
+  ["parsetree_pt",92698,2],
+  ["line_begin",92698,1],
+  ["line_end",92698,1],
+  ["column_begin",92698,1],
+  ["column_end",92698,11475],
+  ["token_begin",92698,0],
+  ["token_end",92698,495]
+]

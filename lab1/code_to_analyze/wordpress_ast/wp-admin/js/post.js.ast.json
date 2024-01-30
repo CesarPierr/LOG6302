@@ -1,0 +1,18 @@
+[
+  ["node_root",427344],
+  ["filename","./wp-admin/js/post.js"],
+  ["type",427344,"Start"],
+  ["parsetree_pt",427344,0],
+  ["ast_succ",427344,427343],
+  ["line_end",427344,1267],
+  ["column_end",427344,43],
+  ["token_end",427344,4490],
+  ["type",427343,"Html"],
+  ["parsetree_pt",427343,2],
+  ["line_begin",427343,1],
+  ["line_end",427343,1267],
+  ["column_begin",427343,1],
+  ["column_end",427343,42],
+  ["token_begin",427343,0],
+  ["token_end",427343,4489]
+]

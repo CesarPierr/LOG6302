@@ -1,0 +1,18 @@
+[
+  ["node_root",72235],
+  ["filename","./wp-includes/js/utils.js"],
+  ["type",72235,"Start"],
+  ["parsetree_pt",72235,0],
+  ["ast_succ",72235,72234],
+  ["line_end",72235,197],
+  ["column_end",72235,2],
+  ["token_end",72235,785],
+  ["type",72234,"Html"],
+  ["parsetree_pt",72234,2],
+  ["line_begin",72234,1],
+  ["line_end",72234,197],
+  ["column_begin",72234,1],
+  ["column_end",72234,1],
+  ["token_begin",72234,0],
+  ["token_end",72234,784]
+]

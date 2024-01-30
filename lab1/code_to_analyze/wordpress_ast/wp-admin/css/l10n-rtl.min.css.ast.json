@@ -1,0 +1,18 @@
+[
+  ["node_root",567],
+  ["filename","./wp-admin/css/l10n-rtl.min.css"],
+  ["type",566,"Html"],
+  ["parsetree_pt",566,2],
+  ["line_begin",566,1],
+  ["line_end",566,1],
+  ["column_begin",566,1],
+  ["column_end",566,2426],
+  ["token_begin",566,0],
+  ["token_end",566,109],
+  ["type",567,"Start"],
+  ["parsetree_pt",567,0],
+  ["ast_succ",567,566],
+  ["line_end",567,1],
+  ["column_end",567,2426],
+  ["token_end",567,110]
+]

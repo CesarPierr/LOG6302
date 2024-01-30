@@ -1,0 +1,18 @@
+[
+  ["node_root",543],
+  ["filename","./wp-admin/css/colors/midnight/colors.scss"],
+  ["type",542,"Html"],
+  ["parsetree_pt",542,2],
+  ["line_begin",542,1],
+  ["line_end",542,5],
+  ["column_begin",542,1],
+  ["column_end",542,25],
+  ["token_begin",542,0],
+  ["token_end",542,7],
+  ["type",543,"Start"],
+  ["parsetree_pt",543,0],
+  ["ast_succ",543,542],
+  ["line_end",543,5],
+  ["column_end",543,26],
+  ["token_end",543,8]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",330878],
+  ["filename","./wp-admin/js/press-this.js"],
+  ["type",330877,"Html"],
+  ["parsetree_pt",330877,2],
+  ["line_begin",330877,1],
+  ["line_end",330877,932],
+  ["column_begin",330877,1],
+  ["column_end",330877,21],
+  ["token_begin",330877,0],
+  ["token_end",330877,3296],
+  ["type",330878,"Start"],
+  ["parsetree_pt",330878,0],
+  ["ast_succ",330878,330877],
+  ["line_end",330878,932],
+  ["column_end",330878,22],
+  ["token_end",330878,3297]
+]

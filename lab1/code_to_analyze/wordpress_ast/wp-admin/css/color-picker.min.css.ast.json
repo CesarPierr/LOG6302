@@ -1,0 +1,18 @@
+[
+  ["node_root",529],
+  ["filename","./wp-admin/css/color-picker.min.css"],
+  ["type",528,"Html"],
+  ["parsetree_pt",528,2],
+  ["line_begin",528,1],
+  ["line_end",528,1],
+  ["column_begin",528,1],
+  ["column_end",528,2268],
+  ["token_begin",528,0],
+  ["token_end",528,59],
+  ["type",529,"Start"],
+  ["parsetree_pt",529,0],
+  ["ast_succ",529,528],
+  ["line_end",529,1],
+  ["column_end",529,2268],
+  ["token_end",529,60]
+]

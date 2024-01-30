@@ -1,0 +1,18 @@
+[
+  ["node_root",152627],
+  ["filename","./wp-admin/css/nav-menus-rtl.css"],
+  ["type",152626,"Html"],
+  ["parsetree_pt",152626,2],
+  ["line_begin",152626,1],
+  ["line_end",152626,902],
+  ["column_begin",152626,1],
+  ["column_end",152626,1],
+  ["token_begin",152626,0],
+  ["token_end",152626,1807],
+  ["type",152627,"Start"],
+  ["parsetree_pt",152627,0],
+  ["ast_succ",152627,152626],
+  ["line_end",152627,902],
+  ["column_end",152627,2],
+  ["token_end",152627,1808]
+]

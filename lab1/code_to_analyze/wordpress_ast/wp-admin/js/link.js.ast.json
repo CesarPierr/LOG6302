@@ -1,0 +1,18 @@
+[
+  ["node_root",5047],
+  ["filename","./wp-admin/js/link.js"],
+  ["type",5046,"Html"],
+  ["parsetree_pt",5046,2],
+  ["line_begin",5046,1],
+  ["line_end",5046,69],
+  ["column_begin",5046,1],
+  ["column_end",5046,3],
+  ["token_begin",5046,0],
+  ["token_end",5046,218],
+  ["type",5047,"Start"],
+  ["parsetree_pt",5047,0],
+  ["ast_succ",5047,5046],
+  ["line_end",5047,69],
+  ["column_end",5047,4],
+  ["token_end",5047,219]
+]

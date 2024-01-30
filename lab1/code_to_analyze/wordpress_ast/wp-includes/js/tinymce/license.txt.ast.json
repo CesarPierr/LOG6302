@@ -1,0 +1,18 @@
+[
+  ["node_root",349104],
+  ["filename","./wp-includes/js/tinymce/license.txt"],
+  ["type",349104,"Start"],
+  ["parsetree_pt",349104,0],
+  ["ast_succ",349104,349103],
+  ["line_end",349104,504],
+  ["column_end",349104,1],
+  ["token_end",349104,4376],
+  ["type",349103,"Html"],
+  ["parsetree_pt",349103,2],
+  ["line_begin",349103,1],
+  ["line_end",349103,502],
+  ["column_begin",349103,7],
+  ["column_end",349103,26],
+  ["token_begin",349103,0],
+  ["token_end",349103,4375]
+]

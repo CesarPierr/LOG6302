@@ -1,0 +1,18 @@
+[
+  ["node_root",46322],
+  ["filename","./wp-admin/js/plugin-install.js"],
+  ["type",46321,"Html"],
+  ["parsetree_pt",46321,2],
+  ["line_begin",46321,1],
+  ["line_end",46321,203],
+  ["column_begin",46321,1],
+  ["column_end",46321,3],
+  ["token_begin",46321,0],
+  ["token_end",46321,885],
+  ["type",46322,"Start"],
+  ["parsetree_pt",46322,0],
+  ["ast_succ",46322,46321],
+  ["line_end",46322,203],
+  ["column_end",46322,4],
+  ["token_end",46322,886]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",152589],
+  ["filename","./wp-admin/css/admin-menu.min.css"],
+  ["type",152588,"Html"],
+  ["parsetree_pt",152588,2],
+  ["line_begin",152588,1],
+  ["line_end",152588,1],
+  ["column_begin",152588,1],
+  ["column_end",152588,15993],
+  ["token_begin",152588,0],
+  ["token_end",152588,479],
+  ["type",152589,"Start"],
+  ["parsetree_pt",152589,0],
+  ["ast_succ",152589,152588],
+  ["line_end",152589,1],
+  ["column_end",152589,15993],
+  ["token_end",152589,480]
+]

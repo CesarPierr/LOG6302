@@ -1,0 +1,18 @@
+[
+  ["node_root",136942],
+  ["filename","./wp-includes/js/tinymce/skins/wordpress/wp-content.css"],
+  ["type",136942,"Start"],
+  ["parsetree_pt",136942,0],
+  ["ast_succ",136942,136941],
+  ["line_end",136942,507],
+  ["column_end",136942,2],
+  ["token_end",136942,1077],
+  ["type",136941,"Html"],
+  ["parsetree_pt",136941,2],
+  ["line_begin",136941,1],
+  ["line_end",136941,507],
+  ["column_begin",136941,1],
+  ["column_end",136941,1],
+  ["token_begin",136941,0],
+  ["token_end",136941,1076]
+]

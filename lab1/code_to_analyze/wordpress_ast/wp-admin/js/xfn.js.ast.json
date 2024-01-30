@@ -1,0 +1,18 @@
+[
+  ["node_root",5101],
+  ["filename","./wp-admin/js/xfn.js"],
+  ["type",5100,"Html"],
+  ["parsetree_pt",5100,2],
+  ["line_begin",5100,1],
+  ["line_end",5100,17],
+  ["column_begin",5100,1],
+  ["column_end",5100,3],
+  ["token_begin",5100,0],
+  ["token_end",5100,100],
+  ["type",5101,"Start"],
+  ["parsetree_pt",5101,0],
+  ["ast_succ",5101,5100],
+  ["line_end",5101,17],
+  ["column_end",5101,4],
+  ["token_end",5101,101]
+]

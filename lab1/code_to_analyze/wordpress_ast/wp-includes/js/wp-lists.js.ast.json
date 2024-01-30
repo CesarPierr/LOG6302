@@ -1,0 +1,18 @@
+[
+  ["node_root",349110],
+  ["filename","./wp-includes/js/wp-lists.js"],
+  ["type",349109,"Html"],
+  ["parsetree_pt",349109,2],
+  ["line_begin",349109,1],
+  ["line_end",349109,854],
+  ["column_begin",349109,1],
+  ["column_end",349109,15],
+  ["token_begin",349109,0],
+  ["token_end",349109,3384],
+  ["type",349110,"Start"],
+  ["parsetree_pt",349110,0],
+  ["ast_succ",349110,349109],
+  ["line_end",349110,854],
+  ["column_end",349110,16],
+  ["token_end",349110,3385]
+]

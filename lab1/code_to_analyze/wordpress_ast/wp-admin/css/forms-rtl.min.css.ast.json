@@ -1,0 +1,18 @@
+[
+  ["node_root",212338],
+  ["filename","./wp-admin/css/forms-rtl.min.css"],
+  ["type",212338,"Start"],
+  ["parsetree_pt",212338,0],
+  ["ast_succ",212338,212337],
+  ["line_end",212338,1],
+  ["column_end",212338,19626],
+  ["token_end",212338,458],
+  ["type",212337,"Html"],
+  ["parsetree_pt",212337,2],
+  ["line_begin",212337,1],
+  ["line_end",212337,1],
+  ["column_begin",212337,1],
+  ["column_end",212337,19626],
+  ["token_begin",212337,0],
+  ["token_end",212337,457]
+]

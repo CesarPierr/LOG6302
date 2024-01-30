@@ -1,0 +1,18 @@
+[
+  ["node_root",92735],
+  ["filename","./wp-admin/css/widgets.min.css"],
+  ["type",92735,"Start"],
+  ["parsetree_pt",92735,0],
+  ["ast_succ",92735,92734],
+  ["line_end",92735,1],
+  ["column_end",92735,10988],
+  ["token_end",92735,299],
+  ["type",92734,"Html"],
+  ["parsetree_pt",92734,2],
+  ["line_begin",92734,1],
+  ["line_end",92734,1],
+  ["column_begin",92734,1],
+  ["column_end",92734,10988],
+  ["token_begin",92734,0],
+  ["token_end",92734,298]
+]

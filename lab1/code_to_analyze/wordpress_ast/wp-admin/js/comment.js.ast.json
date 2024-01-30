@@ -1,0 +1,18 @@
+[
+  ["node_root",5029],
+  ["filename","./wp-admin/js/comment.js"],
+  ["type",5028,"Html"],
+  ["parsetree_pt",5028,2],
+  ["line_begin",5028,1],
+  ["line_end",5028,63],
+  ["column_begin",5028,1],
+  ["column_end",5028,3],
+  ["token_begin",5028,0],
+  ["token_end",5028,228],
+  ["type",5029,"Start"],
+  ["parsetree_pt",5029,0],
+  ["ast_succ",5029,5028],
+  ["line_end",5029,63],
+  ["column_end",5029,4],
+  ["token_end",5029,229]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",545],
+  ["filename","./wp-admin/css/colors/_mixins.scss"],
+  ["type",544,"Html"],
+  ["parsetree_pt",544,2],
+  ["line_begin",544,1],
+  ["line_end",544,51],
+  ["column_begin",544,1],
+  ["column_end",544,1],
+  ["token_begin",544,0],
+  ["token_end",544,197],
+  ["type",545,"Start"],
+  ["parsetree_pt",545,0],
+  ["ast_succ",545,544],
+  ["line_end",545,51],
+  ["column_end",545,2],
+  ["token_end",545,198]
+]

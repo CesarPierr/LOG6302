@@ -1,0 +1,18 @@
+[
+  ["node_root",227521],
+  ["filename","./wp-admin/js/dashboard.js"],
+  ["type",227521,"Start"],
+  ["parsetree_pt",227521,0],
+  ["ast_succ",227521,227520],
+  ["line_end",227521,496],
+  ["column_end",227521,4],
+  ["token_end",227521,1861],
+  ["type",227520,"Html"],
+  ["parsetree_pt",227520,2],
+  ["line_begin",227520,1],
+  ["line_end",227520,496],
+  ["column_begin",227520,1],
+  ["column_end",227520,3],
+  ["token_begin",227520,0],
+  ["token_end",227520,1860]
+]

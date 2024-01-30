@@ -1,0 +1,18 @@
+[
+  ["node_root",196037],
+  ["filename","./wp-includes/js/plupload/handlers.js"],
+  ["type",196036,"Html"],
+  ["parsetree_pt",196036,2],
+  ["line_begin",196036,1],
+  ["line_end",196036,506],
+  ["column_begin",196036,1],
+  ["column_end",196036,3],
+  ["token_begin",196036,0],
+  ["token_end",196036,1725],
+  ["type",196037,"Start"],
+  ["parsetree_pt",196037,0],
+  ["ast_succ",196037,196036],
+  ["line_end",196037,506],
+  ["column_end",196037,4],
+  ["token_end",196037,1726]
+]

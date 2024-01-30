@@ -1,0 +1,18 @@
+[
+  ["node_root",541],
+  ["filename","./wp-admin/css/colors/light/colors.scss"],
+  ["type",540,"Html"],
+  ["parsetree_pt",540,2],
+  ["line_begin",540,1],
+  ["line_end",540,38],
+  ["column_begin",540,1],
+  ["column_end",540,1],
+  ["token_begin",540,0],
+  ["token_end",540,109],
+  ["type",541,"Start"],
+  ["parsetree_pt",541,0],
+  ["ast_succ",541,540],
+  ["line_end",541,38],
+  ["column_end",541,2],
+  ["token_end",541,110]
+]

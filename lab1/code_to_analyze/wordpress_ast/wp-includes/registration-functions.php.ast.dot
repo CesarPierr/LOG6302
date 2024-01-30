@@ -1,0 +1,30 @@
+digraph ast {
+node [shape=none];
+26252 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26252</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>_deprecated_file</TD></TR></TABLE>>];
+26253 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26253</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>basename</TD></TR></TABLE>>];
+26254 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26254</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>__FILE__</TD></TR></TABLE>>];
+26255 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26255</TD><TD border='0'><B>ArgumentList</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>__FILE__</TD></TR></TABLE>>];
+26255 -> 26254 [weight=2];
+26256 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26256</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>basename</TD></TR></TABLE>>];
+26256 -> 26253 [weight=2];
+26256 -> 26255 [weight=2];
+26257 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26257</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>2.1.0</TD></TR></TABLE>>];
+26258 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26258</TD><TD border='0'><B>Null</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>null</TD></TR></TABLE>>];
+26259 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26259</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>__</TD></TR></TABLE>>];
+26260 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26260</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>This file no longer needs to be inclu...</TD></TR></TABLE>>];
+26261 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26261</TD><TD border='0'><B>ArgumentList</B></TD></TR></TABLE>>];
+26261 -> 26260 [weight=2];
+26262 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26262</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>__</TD></TR></TABLE>>];
+26262 -> 26259 [weight=2];
+26262 -> 26261 [weight=2];
+26263 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26263</TD><TD border='0'><B>ArgumentList</B></TD></TR></TABLE>>];
+26263 -> 26256 [weight=2];
+26263 -> 26257 [weight=2];
+26263 -> 26258 [weight=2];
+26263 -> 26262 [weight=2];
+26264 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26264</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>_deprecated_file</TD></TR></TABLE>>];
+26264 -> 26252 [weight=2];
+26264 -> 26263 [weight=2];
+26265 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>26265</TD><TD border='0'><B>Start</B></TD></TR></TABLE>>];
+26265 -> 26264 [weight=2];
+}

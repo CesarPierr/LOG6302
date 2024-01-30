@@ -1,0 +1,18 @@
+[
+  ["node_root",92717],
+  ["filename","./wp-admin/css/ie.min.css"],
+  ["type",92717,"Start"],
+  ["parsetree_pt",92717,0],
+  ["ast_succ",92717,92716],
+  ["line_end",92717,1],
+  ["column_end",92717,10189],
+  ["token_end",92717,352],
+  ["type",92716,"Html"],
+  ["parsetree_pt",92716,2],
+  ["line_begin",92716,1],
+  ["line_end",92716,1],
+  ["column_begin",92716,1],
+  ["column_end",92716,10189],
+  ["token_begin",92716,0],
+  ["token_end",92716,351]
+]

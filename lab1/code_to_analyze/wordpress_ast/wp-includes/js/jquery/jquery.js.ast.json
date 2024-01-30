@@ -1,0 +1,18 @@
+[
+  ["node_root",646402],
+  ["filename","./wp-includes/js/jquery/jquery.js"],
+  ["type",646401,"Html"],
+  ["parsetree_pt",646401,2],
+  ["line_begin",646401,1],
+  ["line_end",646401,6],
+  ["column_begin",646401,1],
+  ["column_end",646401,20],
+  ["token_begin",646401,0],
+  ["token_end",646401,1621],
+  ["type",646402,"Start"],
+  ["parsetree_pt",646402,0],
+  ["ast_succ",646402,646401],
+  ["line_end",646402,6],
+  ["column_end",646402,21],
+  ["token_end",646402,1622]
+]

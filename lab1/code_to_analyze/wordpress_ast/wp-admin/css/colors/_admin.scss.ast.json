@@ -1,0 +1,18 @@
+[
+  ["node_root",92681],
+  ["filename","./wp-admin/css/colors/_admin.scss"],
+  ["type",92681,"Start"],
+  ["parsetree_pt",92681,0],
+  ["ast_succ",92681,92680],
+  ["line_end",92681,493],
+  ["column_end",92681,2],
+  ["token_end",92681,1050],
+  ["type",92680,"Html"],
+  ["parsetree_pt",92680,2],
+  ["line_begin",92680,2],
+  ["line_end",92680,493],
+  ["column_begin",92680,1],
+  ["column_end",92680,1],
+  ["token_begin",92680,0],
+  ["token_end",92680,1049]
+]

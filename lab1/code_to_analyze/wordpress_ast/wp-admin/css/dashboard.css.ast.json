@@ -1,0 +1,18 @@
+[
+  ["node_root",262589],
+  ["filename","./wp-admin/css/dashboard.css"],
+  ["type",262588,"Html"],
+  ["parsetree_pt",262588,2],
+  ["line_begin",262588,1],
+  ["line_end",262588,1320],
+  ["column_begin",262588,1],
+  ["column_end",262588,1],
+  ["token_begin",262588,0],
+  ["token_end",262588,2758],
+  ["type",262589,"Start"],
+  ["parsetree_pt",262589,0],
+  ["ast_succ",262589,262588],
+  ["line_end",262589,1320],
+  ["column_end",262589,2],
+  ["token_end",262589,2759]
+]

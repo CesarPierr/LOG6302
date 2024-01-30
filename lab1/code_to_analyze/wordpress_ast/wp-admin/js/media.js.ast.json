@@ -1,0 +1,18 @@
+[
+  ["node_root",5055],
+  ["filename","./wp-admin/js/media.js"],
+  ["type",5054,"Html"],
+  ["parsetree_pt",5054,2],
+  ["line_begin",5054,1],
+  ["line_end",5054,120],
+  ["column_begin",5054,1],
+  ["column_end",5054,13],
+  ["token_begin",5054,0],
+  ["token_end",5054,357],
+  ["type",5055,"Start"],
+  ["parsetree_pt",5055,0],
+  ["ast_succ",5055,5054],
+  ["line_end",5055,120],
+  ["column_end",5055,14],
+  ["token_end",5055,358]
+]

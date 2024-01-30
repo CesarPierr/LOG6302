@@ -1,0 +1,18 @@
+[
+  ["node_root",24669],
+  ["filename","./wp-includes/js/wpdialog.js"],
+  ["type",24668,"Html"],
+  ["parsetree_pt",24668,2],
+  ["line_begin",24668,1],
+  ["line_end",24668,19],
+  ["column_begin",24668,1],
+  ["column_end",24668,11],
+  ["token_begin",24668,0],
+  ["token_end",24668,48],
+  ["type",24669,"Start"],
+  ["parsetree_pt",24669,0],
+  ["ast_succ",24669,24668],
+  ["line_end",24669,19],
+  ["column_end",24669,12],
+  ["token_end",24669,49]
+]

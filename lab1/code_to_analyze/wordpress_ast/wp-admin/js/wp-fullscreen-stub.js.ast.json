@@ -1,0 +1,18 @@
+[
+  ["node_root",5097],
+  ["filename","./wp-admin/js/wp-fullscreen-stub.js"],
+  ["type",5096,"Html"],
+  ["parsetree_pt",5096,2],
+  ["line_begin",5096,1],
+  ["line_end",5096,39],
+  ["column_begin",5096,1],
+  ["column_end",5096,5],
+  ["token_begin",5096,0],
+  ["token_end",5096,93],
+  ["type",5097,"Start"],
+  ["parsetree_pt",5097,0],
+  ["ast_succ",5097,5096],
+  ["line_end",5097,39],
+  ["column_end",5097,6],
+  ["token_end",5097,94]
+]

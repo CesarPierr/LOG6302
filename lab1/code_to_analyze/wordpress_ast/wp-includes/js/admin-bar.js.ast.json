@@ -1,0 +1,18 @@
+[
+  ["node_root",136888],
+  ["filename","./wp-includes/js/admin-bar.js"],
+  ["type",136887,"Html"],
+  ["parsetree_pt",136887,2],
+  ["line_begin",136887,1],
+  ["line_end",136887,387],
+  ["column_begin",136887,1],
+  ["column_end",136887,1],
+  ["token_begin",136887,0],
+  ["token_end",136887,1285],
+  ["type",136888,"Start"],
+  ["parsetree_pt",136888,0],
+  ["ast_succ",136888,136887],
+  ["line_end",136888,387],
+  ["column_end",136888,2],
+  ["token_end",136888,1286]
+]

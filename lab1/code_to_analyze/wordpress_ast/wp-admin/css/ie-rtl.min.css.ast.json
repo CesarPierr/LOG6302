@@ -1,0 +1,18 @@
+[
+  ["node_root",92721],
+  ["filename","./wp-admin/css/ie-rtl.min.css"],
+  ["type",92721,"Start"],
+  ["parsetree_pt",92721,0],
+  ["ast_succ",92721,92720],
+  ["line_end",92721,1],
+  ["column_end",92721,10195],
+  ["token_end",92721,352],
+  ["type",92720,"Html"],
+  ["parsetree_pt",92720,2],
+  ["line_begin",92720,1],
+  ["line_end",92720,1],
+  ["column_begin",92720,1],
+  ["column_end",92720,10195],
+  ["token_begin",92720,0],
+  ["token_end",92720,351]
+]

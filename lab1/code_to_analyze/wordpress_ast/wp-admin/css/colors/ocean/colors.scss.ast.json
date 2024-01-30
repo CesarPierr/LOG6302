@@ -1,0 +1,18 @@
+[
+  ["node_root",547],
+  ["filename","./wp-admin/css/colors/ocean/colors.scss"],
+  ["type",546,"Html"],
+  ["parsetree_pt",546,2],
+  ["line_begin",546,1],
+  ["line_end",546,8],
+  ["column_begin",546,1],
+  ["column_end",546,25],
+  ["token_begin",546,0],
+  ["token_end",546,11],
+  ["type",547,"Start"],
+  ["parsetree_pt",547,0],
+  ["ast_succ",547,546],
+  ["line_end",547,8],
+  ["column_end",547,26],
+  ["token_end",547,12]
+]

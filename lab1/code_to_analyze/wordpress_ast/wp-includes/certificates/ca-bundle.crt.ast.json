@@ -1,0 +1,18 @@
+[
+  ["node_root",908986],
+  ["filename","./wp-includes/certificates/ca-bundle.crt"],
+  ["type",908985,"Html"],
+  ["parsetree_pt",908985,2],
+  ["line_begin",908985,1],
+  ["line_end",908985,4327],
+  ["column_begin",908985,1],
+  ["column_end",908985,25],
+  ["token_begin",908985,0],
+  ["token_end",908985,5190],
+  ["type",908986,"Start"],
+  ["parsetree_pt",908986,0],
+  ["ast_succ",908986,908985],
+  ["line_end",908986,4327],
+  ["column_end",908986,26],
+  ["token_end",908986,5191]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",92729],
+  ["filename","./wp-admin/css/revisions.min.css"],
+  ["type",92729,"Start"],
+  ["parsetree_pt",92729,0],
+  ["ast_succ",92729,92728],
+  ["line_end",92729,1],
+  ["column_end",92729,8683],
+  ["token_end",92729,188],
+  ["type",92728,"Html"],
+  ["parsetree_pt",92728,2],
+  ["line_begin",92728,1],
+  ["line_end",92728,1],
+  ["column_begin",92728,1],
+  ["column_end",92728,8683],
+  ["token_begin",92728,0],
+  ["token_end",92728,187]
+]

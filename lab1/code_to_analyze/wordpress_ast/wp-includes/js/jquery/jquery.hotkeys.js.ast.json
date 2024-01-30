@@ -1,0 +1,18 @@
+[
+  ["node_root",72187],
+  ["filename","./wp-includes/js/jquery/jquery.hotkeys.js"],
+  ["type",72187,"Start"],
+  ["parsetree_pt",72187,0],
+  ["ast_succ",72187,72186],
+  ["line_end",72187,134],
+  ["column_end",72187,12],
+  ["token_end",72187,517],
+  ["type",72186,"Html"],
+  ["parsetree_pt",72186,2],
+  ["line_begin",72186,1],
+  ["line_end",72186,134],
+  ["column_begin",72186,1],
+  ["column_end",72186,11],
+  ["token_begin",72186,0],
+  ["token_end",72186,516]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",5037],
+  ["filename","./wp-admin/js/custom-header.js"],
+  ["type",5036,"Html"],
+  ["parsetree_pt",5036,2],
+  ["line_begin",5036,1],
+  ["line_end",5036,61],
+  ["column_begin",5036,1],
+  ["column_end",5036,11],
+  ["token_begin",5036,0],
+  ["token_end",5036,200],
+  ["type",5037,"Start"],
+  ["parsetree_pt",5037,0],
+  ["ast_succ",5037,5036],
+  ["line_end",5037,61],
+  ["column_end",5037,12],
+  ["token_end",5037,201]
+]

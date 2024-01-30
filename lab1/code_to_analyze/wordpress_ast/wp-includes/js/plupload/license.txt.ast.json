@@ -1,0 +1,18 @@
+[
+  ["node_root",252628],
+  ["filename","./wp-includes/js/plupload/license.txt"],
+  ["type",252627,"Html"],
+  ["parsetree_pt",252627,2],
+  ["line_begin",252627,1],
+  ["line_end",252627,339],
+  ["column_begin",252627,7],
+  ["column_end",252627,39],
+  ["token_begin",252627,0],
+  ["token_end",252627,2971],
+  ["type",252628,"Start"],
+  ["parsetree_pt",252628,0],
+  ["ast_succ",252628,252627],
+  ["line_end",252628,339],
+  ["column_end",252628,40],
+  ["token_end",252628,2972]
+]

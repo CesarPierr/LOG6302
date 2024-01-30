@@ -1,0 +1,18 @@
+[
+  ["node_root",5069],
+  ["filename","./wp-admin/js/set-post-thumbnail.js"],
+  ["type",5068,"Html"],
+  ["parsetree_pt",5068,2],
+  ["line_begin",5068,1],
+  ["line_end",5068,24],
+  ["column_begin",5068,1],
+  ["column_end",5068,1],
+  ["token_begin",5068,0],
+  ["token_end",5068,80],
+  ["type",5069,"Start"],
+  ["parsetree_pt",5069,0],
+  ["ast_succ",5069,5068],
+  ["line_end",5069,24],
+  ["column_end",5069,2],
+  ["token_end",5069,81]
+]

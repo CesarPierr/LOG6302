@@ -1,0 +1,18 @@
+[
+  ["node_root",92697],
+  ["filename","./wp-admin/css/colors/light/colors-rtl.min.css"],
+  ["type",92697,"Start"],
+  ["parsetree_pt",92697,0],
+  ["ast_succ",92697,92696],
+  ["line_end",92697,1],
+  ["column_end",92697,11863],
+  ["token_end",92697,507],
+  ["type",92696,"Html"],
+  ["parsetree_pt",92696,2],
+  ["line_begin",92696,1],
+  ["line_end",92696,1],
+  ["column_begin",92696,1],
+  ["column_end",92696,11863],
+  ["token_begin",92696,0],
+  ["token_end",92696,506]
+]

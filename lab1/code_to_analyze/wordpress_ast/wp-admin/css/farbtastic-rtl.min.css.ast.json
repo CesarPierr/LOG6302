@@ -1,0 +1,18 @@
+[
+  ["node_root",559],
+  ["filename","./wp-admin/css/farbtastic-rtl.min.css"],
+  ["type",558,"Html"],
+  ["parsetree_pt",558,2],
+  ["line_begin",558,1],
+  ["line_end",558,1],
+  ["column_begin",558,1],
+  ["column_end",558,503],
+  ["token_begin",558,0],
+  ["token_end",558,13],
+  ["type",559,"Start"],
+  ["parsetree_pt",559,0],
+  ["ast_succ",559,558],
+  ["line_end",559,1],
+  ["column_end",559,503],
+  ["token_end",559,14]
+]

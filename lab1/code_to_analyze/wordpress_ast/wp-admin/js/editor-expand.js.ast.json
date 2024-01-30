@@ -1,0 +1,18 @@
+[
+  ["node_root",397996],
+  ["filename","./wp-admin/js/editor-expand.js"],
+  ["type",397996,"Start"],
+  ["parsetree_pt",397996,0],
+  ["ast_succ",397996,397995],
+  ["line_end",397996,1207],
+  ["column_end",397996,30],
+  ["token_end",397996,4281],
+  ["type",397995,"Html"],
+  ["parsetree_pt",397995,2],
+  ["line_begin",397995,1],
+  ["line_end",397995,1207],
+  ["column_begin",397995,1],
+  ["column_end",397995,29],
+  ["token_begin",397995,0],
+  ["token_end",397995,4280]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",24466],
+  ["filename","./wp-includes/js/tinymce/plugins/hr/plugin.js"],
+  ["type",24465,"Html"],
+  ["parsetree_pt",24465,2],
+  ["line_begin",24465,1],
+  ["line_end",24465,152],
+  ["column_begin",24465,1],
+  ["column_end",24465,5],
+  ["token_begin",24465,0],
+  ["token_end",24465,463],
+  ["type",24466,"Start"],
+  ["parsetree_pt",24466,0],
+  ["ast_succ",24466,24465],
+  ["line_end",24466,152],
+  ["column_end",24466,6],
+  ["token_end",24466,464]
+]

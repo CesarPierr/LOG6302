@@ -1,0 +1,18 @@
+[
+  ["node_root",232580],
+  ["filename","./wp-content/plugins/akismet/LICENSE.txt"],
+  ["type",232579,"Html"],
+  ["parsetree_pt",232579,2],
+  ["line_begin",232579,1],
+  ["line_end",232579,339],
+  ["column_begin",232579,21],
+  ["column_end",232579,39],
+  ["token_begin",232579,0],
+  ["token_end",232579,2971],
+  ["type",232580,"Start"],
+  ["parsetree_pt",232580,0],
+  ["ast_succ",232580,232579],
+  ["line_end",232580,339],
+  ["column_end",232580,40],
+  ["token_end",232580,2972]
+]

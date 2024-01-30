@@ -1,0 +1,18 @@
+[
+  ["node_root",605017],
+  ["filename","./wp-admin/js/updates.js"],
+  ["type",605017,"Start"],
+  ["parsetree_pt",605017,0],
+  ["ast_succ",605017,605016],
+  ["line_end",605017,2422],
+  ["column_end",605017,52],
+  ["token_end",605017,9119],
+  ["type",605016,"Html"],
+  ["parsetree_pt",605016,2],
+  ["line_begin",605016,1],
+  ["line_end",605016,2422],
+  ["column_begin",605016,1],
+  ["column_end",605016,51],
+  ["token_begin",605016,0],
+  ["token_end",605016,9118]
+]

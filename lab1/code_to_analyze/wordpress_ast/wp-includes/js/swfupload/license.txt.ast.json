@@ -1,0 +1,18 @@
+[
+  ["node_root",24450],
+  ["filename","./wp-includes/js/swfupload/license.txt"],
+  ["type",24449,"Html"],
+  ["parsetree_pt",24449,2],
+  ["line_begin",24449,1],
+  ["line_end",24449,32],
+  ["column_begin",24449,1],
+  ["column_end",24449,13],
+  ["token_begin",24449,0],
+  ["token_end",24449,221],
+  ["type",24450,"Start"],
+  ["parsetree_pt",24450,0],
+  ["ast_succ",24450,24449],
+  ["line_end",24450,32],
+  ["column_end",24450,13],
+  ["token_end",24450,222]
+]

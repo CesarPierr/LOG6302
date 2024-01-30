@@ -1,0 +1,18 @@
+[
+  ["node_root",457925],
+  ["filename","./wp-admin/js/nav-menu.js"],
+  ["type",457924,"Html"],
+  ["parsetree_pt",457924,2],
+  ["line_begin",457924,1],
+  ["line_end",457924,1295],
+  ["column_begin",457924,1],
+  ["column_end",457924,11],
+  ["token_begin",457924,0],
+  ["token_end",457924,4680],
+  ["type",457925,"Start"],
+  ["parsetree_pt",457925,0],
+  ["ast_succ",457925,457924],
+  ["line_end",457925,1295],
+  ["column_end",457925,12],
+  ["token_end",457925,4681]
+]

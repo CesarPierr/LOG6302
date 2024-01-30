@@ -1,0 +1,18 @@
+[
+  ["node_root",212334],
+  ["filename","./wp-admin/css/dashboard-rtl.min.css"],
+  ["type",212334,"Start"],
+  ["parsetree_pt",212334,0],
+  ["ast_succ",212334,212333],
+  ["line_end",212334,1],
+  ["column_end",212334,18910],
+  ["token_end",212334,587],
+  ["type",212333,"Html"],
+  ["parsetree_pt",212333,2],
+  ["line_begin",212333,1],
+  ["line_end",212333,1],
+  ["column_begin",212333,1],
+  ["column_end",212333,18910],
+  ["token_begin",212333,0],
+  ["token_end",212333,586]
+]

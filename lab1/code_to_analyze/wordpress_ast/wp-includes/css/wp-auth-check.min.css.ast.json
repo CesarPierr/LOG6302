@@ -1,0 +1,18 @@
+[
+  ["node_root",19828],
+  ["filename","./wp-includes/css/wp-auth-check.min.css"],
+  ["type",19827,"Html"],
+  ["parsetree_pt",19827,2],
+  ["line_begin",19827,1],
+  ["line_end",19827,1],
+  ["column_begin",19827,1],
+  ["column_end",19827,2013],
+  ["token_begin",19827,0],
+  ["token_end",19827,40],
+  ["type",19828,"Start"],
+  ["parsetree_pt",19828,0],
+  ["ast_succ",19828,19827],
+  ["line_end",19828,1],
+  ["column_end",19828,2013],
+  ["token_end",19828,41]
+]

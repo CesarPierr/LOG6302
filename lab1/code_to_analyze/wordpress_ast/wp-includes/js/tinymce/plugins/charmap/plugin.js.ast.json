@@ -1,0 +1,18 @@
+[
+  ["node_root",252630],
+  ["filename","./wp-includes/js/tinymce/plugins/charmap/plugin.js"],
+  ["type",252630,"Start"],
+  ["parsetree_pt",252630,0],
+  ["ast_succ",252630,252629],
+  ["line_end",252630,617],
+  ["column_end",252630,6],
+  ["token_end",252630,1786],
+  ["type",252629,"Html"],
+  ["parsetree_pt",252629,2],
+  ["line_begin",252629,1],
+  ["line_end",252629,617],
+  ["column_begin",252629,1],
+  ["column_end",252629,5],
+  ["token_begin",252629,0],
+  ["token_end",252629,1785]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",35050],
+  ["filename","./wp-admin/css/login.css"],
+  ["type",35049,"Html"],
+  ["parsetree_pt",35049,2],
+  ["line_begin",35049,1],
+  ["line_end",35049,263],
+  ["column_begin",35049,1],
+  ["column_end",35049,1],
+  ["token_begin",35049,0],
+  ["token_end",35049,547],
+  ["type",35050,"Start"],
+  ["parsetree_pt",35050,0],
+  ["ast_succ",35050,35049],
+  ["line_end",35050,263],
+  ["column_end",35050,2],
+  ["token_end",35050,548]
+]

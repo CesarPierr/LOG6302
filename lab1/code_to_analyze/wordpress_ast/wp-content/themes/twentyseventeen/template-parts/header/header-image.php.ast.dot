@@ -1,0 +1,26 @@
+digraph ast {
+node [shape=none];
+13632 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>13632</TD><TD border='0'><B>Start</B></TD></TR></TABLE>>];
+13632 -> 13621 [weight=2];
+13632 -> 13624 [weight=2];
+13632 -> 13625 [weight=2];
+13632 -> 13630 [weight=2];
+13632 -> 13631 [weight=2];
+13621 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>13621</TD><TD border='0'><B>Html</B></TD></TR></TABLE>>];
+13622 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>13622</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>the_custom_header_markup</TD></TR></TABLE>>];
+13623 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>13623</TD><TD border='0'><B>ArgumentList</B></TD></TR></TABLE>>];
+13624 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>13624</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>the_custom_header_markup</TD></TR></TABLE>>];
+13624 -> 13622 [weight=2];
+13624 -> 13623 [weight=2];
+13625 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>13625</TD><TD border='0'><B>Html</B></TD></TR></TABLE>>];
+13626 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>13626</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>get_template_part</TD></TR></TABLE>>];
+13627 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>13627</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>template-partsheadersite</TD></TR></TABLE>>];
+13628 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>13628</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>branding</TD></TR></TABLE>>];
+13629 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>13629</TD><TD border='0'><B>ArgumentList</B></TD></TR></TABLE>>];
+13629 -> 13627 [weight=2];
+13629 -> 13628 [weight=2];
+13630 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>13630</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>get_template_part</TD></TR></TABLE>>];
+13630 -> 13626 [weight=2];
+13630 -> 13629 [weight=2];
+13631 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>13631</TD><TD border='0'><B>Html</B></TD></TR></TABLE>>];
+}

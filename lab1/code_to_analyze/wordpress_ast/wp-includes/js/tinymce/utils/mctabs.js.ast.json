@@ -1,0 +1,18 @@
+[
+  ["node_root",72229],
+  ["filename","./wp-includes/js/tinymce/utils/mctabs.js"],
+  ["type",72229,"Start"],
+  ["parsetree_pt",72229,0],
+  ["ast_succ",72229,72228],
+  ["line_end",72229,168],
+  ["column_end",72229,3],
+  ["token_end",72229,424],
+  ["type",72228,"Html"],
+  ["parsetree_pt",72228,2],
+  ["line_begin",72228,1],
+  ["line_end",72228,168],
+  ["column_begin",72228,1],
+  ["column_end",72228,3],
+  ["token_begin",72228,0],
+  ["token_end",72228,423]
+]

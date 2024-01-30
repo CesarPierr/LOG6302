@@ -1,0 +1,18 @@
+[
+  ["node_root",72179],
+  ["filename","./wp-includes/js/customize-views.js"],
+  ["type",72179,"Start"],
+  ["parsetree_pt",72179,0],
+  ["ast_succ",72179,72178],
+  ["line_end",72179,186],
+  ["column_end",72179,28],
+  ["token_end",72179,392],
+  ["type",72178,"Html"],
+  ["parsetree_pt",72178,2],
+  ["line_begin",72178,1],
+  ["line_end",72178,186],
+  ["column_begin",72178,1],
+  ["column_end",72178,27],
+  ["token_begin",72178,0],
+  ["token_end",72178,391]
+]

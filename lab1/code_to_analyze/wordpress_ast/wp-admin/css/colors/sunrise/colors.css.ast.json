@@ -1,0 +1,18 @@
+[
+  ["node_root",152617],
+  ["filename","./wp-admin/css/colors/sunrise/colors.css"],
+  ["type",152616,"Html"],
+  ["parsetree_pt",152616,2],
+  ["line_begin",152616,1],
+  ["line_end",152616,510],
+  ["column_begin",152616,1],
+  ["column_end",152616,1],
+  ["token_begin",152616,0],
+  ["token_end",152616,1315],
+  ["type",152617,"Start"],
+  ["parsetree_pt",152617,0],
+  ["ast_succ",152617,152616],
+  ["line_end",152617,510],
+  ["column_end",152617,2],
+  ["token_end",152617,1316]
+]

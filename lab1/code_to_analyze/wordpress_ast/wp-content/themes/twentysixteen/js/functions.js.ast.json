@@ -1,0 +1,18 @@
+[
+  ["node_root",58997],
+  ["filename","./wp-content/themes/twentysixteen/js/functions.js"],
+  ["type",58996,"Html"],
+  ["parsetree_pt",58996,2],
+  ["line_begin",58996,1],
+  ["line_end",58996,200],
+  ["column_begin",58996,1],
+  ["column_end",58996,14],
+  ["token_begin",58996,0],
+  ["token_end",58996,781],
+  ["type",58997,"Start"],
+  ["parsetree_pt",58997,0],
+  ["ast_succ",58997,58996],
+  ["line_end",58997,200],
+  ["column_end",58997,15],
+  ["token_end",58997,782]
+]

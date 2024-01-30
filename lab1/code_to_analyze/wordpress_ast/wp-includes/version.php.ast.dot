@@ -1,0 +1,34 @@
+digraph ast {
+node [shape=none];
+31232 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31232</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>5.2.4</TD></TR></TABLE>>];
+31233 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31233</TD><TD border='0'><B>Variable</B></TD></TR><HR/><TR><TD border='0' cellpadding='5'>(0, 771)</TD><TD border='0' cellpadding='5'>required_mysql_version</TD></TR></TABLE>>];
+31234 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31234</TD><TD border='0'><B>BinOP</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>=</TD></TR></TABLE>>];
+31234 -> 31233 [weight=2];
+31234 -> 31235 [weight=2];
+31235 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31235</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>5.0</TD></TR></TABLE>>];
+31236 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31236</TD><TD border='0'><B>Start</B></TD></TR></TABLE>>];
+31236 -> 31222 [weight=2];
+31236 -> 31225 [weight=2];
+31236 -> 31228 [weight=2];
+31236 -> 31231 [weight=2];
+31236 -> 31234 [weight=2];
+31221 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31221</TD><TD border='0'><B>Variable</B></TD></TR><HR/><TR><TD border='0' cellpadding='5'>(0, 168)</TD><TD border='0' cellpadding='5'>wp_version</TD></TR></TABLE>>];
+31222 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31222</TD><TD border='0'><B>BinOP</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>=</TD></TR></TABLE>>];
+31222 -> 31221 [weight=2];
+31222 -> 31223 [weight=2];
+31223 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31223</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>4.8.1</TD></TR></TABLE>>];
+31224 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31224</TD><TD border='0'><B>Variable</B></TD></TR><HR/><TR><TD border='0' cellpadding='5'>(0, 768)</TD><TD border='0' cellpadding='5'>wp_db_version</TD></TR></TABLE>>];
+31225 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31225</TD><TD border='0'><B>BinOP</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>=</TD></TR></TABLE>>];
+31225 -> 31224 [weight=2];
+31225 -> 31226 [weight=2];
+31226 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31226</TD><TD border='0'><B>IntegerLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>38590</TD></TR></TABLE>>];
+31227 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31227</TD><TD border='0'><B>Variable</B></TD></TR><HR/><TR><TD border='0' cellpadding='5'>(0, 769)</TD><TD border='0' cellpadding='5'>tinymce_version</TD></TR></TABLE>>];
+31228 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31228</TD><TD border='0'><B>BinOP</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>=</TD></TR></TABLE>>];
+31228 -> 31227 [weight=2];
+31228 -> 31229 [weight=2];
+31229 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31229</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>4603-20170530</TD></TR></TABLE>>];
+31230 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31230</TD><TD border='0'><B>Variable</B></TD></TR><HR/><TR><TD border='0' cellpadding='5'>(0, 770)</TD><TD border='0' cellpadding='5'>required_php_version</TD></TR></TABLE>>];
+31231 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>31231</TD><TD border='0'><B>BinOP</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>=</TD></TR></TABLE>>];
+31231 -> 31230 [weight=2];
+31231 -> 31232 [weight=2];
+}

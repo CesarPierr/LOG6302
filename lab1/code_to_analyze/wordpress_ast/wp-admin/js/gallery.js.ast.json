@@ -1,0 +1,18 @@
+[
+  ["node_root",46316],
+  ["filename","./wp-admin/js/gallery.js"],
+  ["type",46315,"Html"],
+  ["parsetree_pt",46315,2],
+  ["line_begin",46315,1],
+  ["line_end",46315,237],
+  ["column_begin",46315,1],
+  ["column_end",46315,2],
+  ["token_begin",46315,0],
+  ["token_end",46315,688],
+  ["type",46316,"Start"],
+  ["parsetree_pt",46316,0],
+  ["ast_succ",46316,46315],
+  ["line_end",46316,237],
+  ["column_end",46316,3],
+  ["token_end",46316,689]
+]

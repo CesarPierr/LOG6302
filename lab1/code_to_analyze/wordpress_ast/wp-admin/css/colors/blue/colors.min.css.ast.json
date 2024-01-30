@@ -1,0 +1,18 @@
+[
+  ["node_root",92683],
+  ["filename","./wp-admin/css/colors/blue/colors.min.css"],
+  ["type",92683,"Start"],
+  ["parsetree_pt",92683,0],
+  ["ast_succ",92683,92682],
+  ["line_end",92683,1],
+  ["column_end",92683,11440],
+  ["token_end",92683,496],
+  ["type",92682,"Html"],
+  ["parsetree_pt",92682,2],
+  ["line_begin",92682,1],
+  ["line_end",92682,1],
+  ["column_begin",92682,1],
+  ["column_end",92682,11440],
+  ["token_begin",92682,0],
+  ["token_end",92682,495]
+]

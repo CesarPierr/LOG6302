@@ -1,0 +1,18 @@
+[
+  ["node_root",299274],
+  ["filename","./wp-includes/js/jquery/jquery-migrate.js"],
+  ["type",299273,"Html"],
+  ["parsetree_pt",299273,2],
+  ["line_begin",299273,1],
+  ["line_end",299273,752],
+  ["column_begin",299273,1],
+  ["column_end",299273,21],
+  ["token_begin",299273,0],
+  ["token_end",299273,3365],
+  ["type",299274,"Start"],
+  ["parsetree_pt",299274,0],
+  ["ast_succ",299274,299273],
+  ["line_end",299274,752],
+  ["column_end",299274,22],
+  ["token_end",299274,3366]
+]

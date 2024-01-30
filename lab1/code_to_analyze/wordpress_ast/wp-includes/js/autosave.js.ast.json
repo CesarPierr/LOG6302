@@ -1,0 +1,18 @@
+[
+  ["node_root",252610],
+  ["filename","./wp-includes/js/autosave.js"],
+  ["type",252610,"Start"],
+  ["parsetree_pt",252610,0],
+  ["ast_succ",252610,252609],
+  ["line_end",252610,603],
+  ["column_end",252610,22],
+  ["token_end",252610,2169],
+  ["type",252609,"Html"],
+  ["parsetree_pt",252609,2],
+  ["line_begin",252609,1],
+  ["line_end",252609,603],
+  ["column_begin",252609,1],
+  ["column_end",252609,21],
+  ["token_begin",252609,0],
+  ["token_end",252609,2168]
+]

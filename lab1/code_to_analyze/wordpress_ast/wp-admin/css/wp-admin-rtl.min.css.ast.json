@@ -1,0 +1,18 @@
+[
+  ["node_root",591],
+  ["filename","./wp-admin/css/wp-admin-rtl.min.css"],
+  ["type",590,"Html"],
+  ["parsetree_pt",590,2],
+  ["line_begin",590,1],
+  ["line_end",590,14],
+  ["column_begin",590,1],
+  ["column_end",590,30],
+  ["token_begin",590,0],
+  ["token_end",590,27],
+  ["type",591,"Start"],
+  ["parsetree_pt",591,0],
+  ["ast_succ",591,590],
+  ["line_end",591,14],
+  ["column_end",591,31],
+  ["token_end",591,28]
+]

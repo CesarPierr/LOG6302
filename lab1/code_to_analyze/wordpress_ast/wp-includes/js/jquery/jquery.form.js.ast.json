@@ -1,0 +1,18 @@
+[
+  ["node_root",475319],
+  ["filename","./wp-includes/js/jquery/jquery.form.js"],
+  ["type",475319,"Start"],
+  ["parsetree_pt",475319,0],
+  ["ast_succ",475319,475318],
+  ["line_end",475319,1193],
+  ["column_end",475319,12],
+  ["token_end",475319,4470],
+  ["type",475318,"Html"],
+  ["parsetree_pt",475318,2],
+  ["line_begin",475318,1],
+  ["line_end",475318,1193],
+  ["column_begin",475318,1],
+  ["column_end",475318,11],
+  ["token_begin",475318,0],
+  ["token_end",475318,4469]
+]

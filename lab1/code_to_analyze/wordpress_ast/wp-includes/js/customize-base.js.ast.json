@@ -1,0 +1,18 @@
+[
+  ["node_root",299272],
+  ["filename","./wp-includes/js/customize-base.js"],
+  ["type",299271,"Html"],
+  ["parsetree_pt",299271,2],
+  ["line_begin",299271,1],
+  ["line_end",299271,849],
+  ["column_begin",299271,1],
+  ["column_end",299271,17],
+  ["token_begin",299271,0],
+  ["token_end",299271,3205],
+  ["type",299272,"Start"],
+  ["parsetree_pt",299272,0],
+  ["ast_succ",299272,299271],
+  ["line_end",299272,849],
+  ["column_end",299272,18],
+  ["token_end",299272,3206]
+]

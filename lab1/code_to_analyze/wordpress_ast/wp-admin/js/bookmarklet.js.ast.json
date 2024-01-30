@@ -1,0 +1,18 @@
+[
+  ["node_root",5023],
+  ["filename","./wp-admin/js/bookmarklet.js"],
+  ["type",5022,"Html"],
+  ["parsetree_pt",5022,2],
+  ["line_begin",5022,1],
+  ["line_end",5022,156],
+  ["column_begin",5022,1],
+  ["column_end",5022,58],
+  ["token_begin",5022,0],
+  ["token_end",5022,622],
+  ["type",5023,"Start"],
+  ["parsetree_pt",5023,0],
+  ["ast_succ",5023,5022],
+  ["line_end",5023,156],
+  ["column_end",5023,59],
+  ["token_end",5023,623]
+]

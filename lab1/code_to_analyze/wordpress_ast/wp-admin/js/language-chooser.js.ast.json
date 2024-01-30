@@ -1,0 +1,18 @@
+[
+  ["node_root",5043],
+  ["filename","./wp-admin/js/language-chooser.js"],
+  ["type",5042,"Html"],
+  ["parsetree_pt",5042,2],
+  ["line_begin",5042,1],
+  ["line_end",5042,26],
+  ["column_begin",5042,1],
+  ["column_end",5042,3],
+  ["token_begin",5042,0],
+  ["token_end",5042,90],
+  ["type",5043,"Start"],
+  ["parsetree_pt",5043,0],
+  ["ast_succ",5043,5042],
+  ["line_end",5043,26],
+  ["column_end",5043,4],
+  ["token_end",5043,91]
+]

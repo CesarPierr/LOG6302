@@ -1,0 +1,18 @@
+[
+  ["node_root",380938],
+  ["filename","./wp-includes/js/colorpicker.js"],
+  ["type",380937,"Html"],
+  ["parsetree_pt",380937,2],
+  ["line_begin",380937,1],
+  ["line_end",380937,707],
+  ["column_begin",380937,1],
+  ["column_end",380937,2],
+  ["token_begin",380937,0],
+  ["token_end",380937,2730],
+  ["type",380938,"Start"],
+  ["parsetree_pt",380938,0],
+  ["ast_succ",380938,380937],
+  ["line_end",380938,707],
+  ["column_end",380938,3],
+  ["token_end",380938,2731]
+]

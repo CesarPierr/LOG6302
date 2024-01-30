@@ -1,0 +1,18 @@
+[
+  ["node_root",13231],
+  ["filename","./wp-content/themes/twentyseventeen/README.txt"],
+  ["type",13230,"Html"],
+  ["parsetree_pt",13230,2],
+  ["line_begin",13230,1],
+  ["line_end",13230,81],
+  ["column_begin",13230,1],
+  ["column_end",13230,15],
+  ["token_begin",13230,0],
+  ["token_end",13230,416],
+  ["type",13231,"Start"],
+  ["parsetree_pt",13231,0],
+  ["ast_succ",13231,13230],
+  ["line_end",13231,81],
+  ["column_end",13231,16],
+  ["token_end",13231,417]
+]

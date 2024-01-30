@@ -1,0 +1,18 @@
+[
+  ["node_root",551],
+  ["filename","./wp-admin/css/colors/_variables.scss"],
+  ["type",550,"Html"],
+  ["parsetree_pt",550,2],
+  ["line_begin",550,1],
+  ["line_end",550,58],
+  ["column_begin",550,1],
+  ["column_end",550,69],
+  ["token_begin",550,0],
+  ["token_end",550,154],
+  ["type",551,"Start"],
+  ["parsetree_pt",551,0],
+  ["ast_succ",551,550],
+  ["line_end",551,58],
+  ["column_end",551,70],
+  ["token_end",551,155]
+]

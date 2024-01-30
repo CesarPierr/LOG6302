@@ -1,0 +1,18 @@
+[
+  ["node_root",10491],
+  ["filename","./wp-content/plugins/akismet/.htaccess"],
+  ["type",10490,"Html"],
+  ["parsetree_pt",10490,2],
+  ["line_begin",10490,1],
+  ["line_end",10490,34],
+  ["column_begin",10490,1],
+  ["column_end",10490,13],
+  ["token_begin",10490,0],
+  ["token_end",10490,82],
+  ["type",10491,"Start"],
+  ["parsetree_pt",10491,0],
+  ["ast_succ",10491,10490],
+  ["line_end",10491,34],
+  ["column_end",10491,13],
+  ["token_end",10491,83]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",233710],
+  ["filename","./wp-content/themes/twentysixteen/genericons/LICENSE.txt"],
+  ["type",233710,"Start"],
+  ["parsetree_pt",233710,0],
+  ["ast_succ",233710,233709],
+  ["line_end",233710,339],
+  ["column_end",233710,40],
+  ["token_end",233710,2972],
+  ["type",233709,"Html"],
+  ["parsetree_pt",233709,2],
+  ["line_begin",233709,1],
+  ["line_end",233709,339],
+  ["column_begin",233709,21],
+  ["column_end",233709,39],
+  ["token_begin",233709,0],
+  ["token_end",233709,2971]
+]

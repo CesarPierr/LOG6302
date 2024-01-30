@@ -1,0 +1,18 @@
+[
+  ["node_root",35042],
+  ["filename","./wp-admin/css/install.css"],
+  ["type",35041,"Html"],
+  ["parsetree_pt",35041,2],
+  ["line_begin",35041,1],
+  ["line_end",35041,462],
+  ["column_begin",35041,1],
+  ["column_end",35041,1],
+  ["token_begin",35041,0],
+  ["token_end",35041,904],
+  ["type",35042,"Start"],
+  ["parsetree_pt",35042,0],
+  ["ast_succ",35042,35041],
+  ["line_end",35042,462],
+  ["column_end",35042,2],
+  ["token_end",35042,905]
+]

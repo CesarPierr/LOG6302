@@ -1,0 +1,18 @@
+[
+  ["node_root",330876],
+  ["filename","./wp-admin/js/image-edit.js"],
+  ["type",330876,"Start"],
+  ["parsetree_pt",330876,0],
+  ["ast_succ",330876,330875],
+  ["line_end",330876,1092],
+  ["column_end",330876,12],
+  ["token_end",330876,4247],
+  ["type",330875,"Html"],
+  ["parsetree_pt",330875,2],
+  ["line_begin",330875,1],
+  ["line_end",330875,1092],
+  ["column_begin",330875,1],
+  ["column_end",330875,11],
+  ["token_begin",330875,0],
+  ["token_end",330875,4246]
+]

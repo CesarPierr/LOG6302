@@ -1,0 +1,18 @@
+[
+  ["node_root",415403],
+  ["filename","./wp-admin/css/customize-controls-rtl.min.css"],
+  ["type",415402,"Html"],
+  ["parsetree_pt",415402,2],
+  ["line_begin",415402,1],
+  ["line_end",415402,1],
+  ["column_begin",415402,1],
+  ["column_end",415402,37265],
+  ["token_begin",415402,0],
+  ["token_end",415402,863],
+  ["type",415403,"Start"],
+  ["parsetree_pt",415403,0],
+  ["ast_succ",415403,415402],
+  ["line_end",415403,1],
+  ["column_end",415403,37265],
+  ["token_end",415403,864]
+]

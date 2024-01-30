@@ -1,0 +1,32 @@
+digraph ast {
+node [shape=none];
+16420 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16420</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>is_active_sidebar</TD></TR></TABLE>>];
+16421 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16421</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>sidebar-1</TD></TR></TABLE>>];
+16422 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16422</TD><TD border='0'><B>ArgumentList</B></TD></TR></TABLE>>];
+16422 -> 16421 [weight=2];
+16423 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16423</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>is_active_sidebar</TD></TR></TABLE>>];
+16423 -> 16420 [weight=2];
+16423 -> 16422 [weight=2];
+16424 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16424</TD><TD border='0'><B>Condition</B></TD></TR></TABLE>>];
+16424 -> 16423 [weight=2];
+16425 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16425</TD><TD border='0'><B>Html</B></TD></TR></TABLE>>];
+16426 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16426</TD><TD border='0'><B>Id</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>dynamic_sidebar</TD></TR></TABLE>>];
+16427 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16427</TD><TD border='0'><B>StringLiteral</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>sidebar-1</TD></TR></TABLE>>];
+16428 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16428</TD><TD border='0'><B>ArgumentList</B></TD></TR></TABLE>>];
+16428 -> 16427 [weight=2];
+16429 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16429</TD><TD border='0'><B>FunctionCall</B></TD></TR><HR/><TR><TD border='0' cellpadding='5' colspan='2'>dynamic_sidebar</TD></TR></TABLE>>];
+16429 -> 16426 [weight=2];
+16429 -> 16428 [weight=2];
+16430 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16430</TD><TD border='0'><B>Html</B></TD></TR></TABLE>>];
+16431 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16431</TD><TD border='0'><B>Block</B></TD></TR></TABLE>>];
+16431 -> 16425 [weight=2];
+16431 -> 16429 [weight=2];
+16431 -> 16430 [weight=2];
+16432 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16432</TD><TD border='0'><B>IfThenStatement</B></TD></TR></TABLE>>];
+16432 -> 16424 [weight=2];
+16432 -> 16433 [weight=2];
+16433 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16433</TD><TD border='0'><B>StatementBody</B></TD></TR></TABLE>>];
+16433 -> 16431 [weight=2];
+16434 [label=<<TABLE border='1' cellspacing='0' cellpadding='10' style='rounded' ><TR><TD border='0'>16434</TD><TD border='0'><B>Start</B></TD></TR></TABLE>>];
+16434 -> 16432 [weight=2];
+}

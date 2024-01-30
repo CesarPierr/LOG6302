@@ -1,0 +1,18 @@
+[
+  ["node_root",24492],
+  ["filename","./wp-includes/js/tinymce/skins/lightgray/content.min.css"],
+  ["type",24491,"Html"],
+  ["parsetree_pt",24491,2],
+  ["line_begin",24491,1],
+  ["line_end",24491,1],
+  ["column_begin",24491,1],
+  ["column_end",24491,3497],
+  ["token_begin",24491,0],
+  ["token_end",24491,74],
+  ["type",24492,"Start"],
+  ["parsetree_pt",24492,0],
+  ["ast_succ",24492,24491],
+  ["line_end",24492,1],
+  ["column_end",24492,3497],
+  ["token_end",24492,75]
+]

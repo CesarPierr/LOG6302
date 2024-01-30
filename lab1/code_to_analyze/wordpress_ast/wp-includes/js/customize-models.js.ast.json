@@ -1,0 +1,18 @@
+[
+  ["node_root",72173],
+  ["filename","./wp-includes/js/customize-models.js"],
+  ["type",72173,"Start"],
+  ["parsetree_pt",72173,0],
+  ["ast_succ",72173,72172],
+  ["line_end",72173,247],
+  ["column_end",72173,25],
+  ["token_end",72173,550],
+  ["type",72172,"Html"],
+  ["parsetree_pt",72172,2],
+  ["line_begin",72172,1],
+  ["line_end",72172,247],
+  ["column_begin",72172,1],
+  ["column_end",72172,24],
+  ["token_begin",72172,0],
+  ["token_end",72172,549]
+]

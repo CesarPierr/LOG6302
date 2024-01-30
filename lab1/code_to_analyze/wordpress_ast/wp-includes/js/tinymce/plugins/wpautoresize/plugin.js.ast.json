@@ -1,0 +1,18 @@
+[
+  ["node_root",72223],
+  ["filename","./wp-includes/js/tinymce/plugins/wpautoresize/plugin.js"],
+  ["type",72223,"Start"],
+  ["parsetree_pt",72223,0],
+  ["ast_succ",72223,72222],
+  ["line_end",72223,207],
+  ["column_end",72223,4],
+  ["token_end",72223,813],
+  ["type",72222,"Html"],
+  ["parsetree_pt",72222,2],
+  ["line_begin",72222,1],
+  ["line_end",72222,207],
+  ["column_begin",72222,1],
+  ["column_end",72222,3],
+  ["token_begin",72222,0],
+  ["token_end",72222,812]
+]

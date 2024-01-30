@@ -1,0 +1,18 @@
+[
+  ["node_root",845636],
+  ["filename","./wp-admin/js/customize-controls.js"],
+  ["type",845636,"Start"],
+  ["parsetree_pt",845636,0],
+  ["ast_succ",845636,845635],
+  ["line_end",845636,5520],
+  ["column_end",845636,18],
+  ["token_end",845636,19840],
+  ["type",845635,"Html"],
+  ["parsetree_pt",845635,2],
+  ["line_begin",845635,1],
+  ["line_end",845635,5520],
+  ["column_begin",845635,1],
+  ["column_end",845635,17],
+  ["token_begin",845635,0],
+  ["token_end",845635,19839]
+]

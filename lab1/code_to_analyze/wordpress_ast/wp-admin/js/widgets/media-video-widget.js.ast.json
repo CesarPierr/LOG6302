@@ -1,0 +1,18 @@
+[
+  ["node_root",46336],
+  ["filename","./wp-admin/js/widgets/media-video-widget.js"],
+  ["type",46336,"Start"],
+  ["parsetree_pt",46336,0],
+  ["ast_succ",46336,46335],
+  ["line_end",46336,241],
+  ["column_end",46336,23],
+  ["token_end",46336,667],
+  ["type",46335,"Html"],
+  ["parsetree_pt",46335,2],
+  ["line_begin",46335,1],
+  ["line_end",46335,241],
+  ["column_begin",46335,1],
+  ["column_end",46335,22],
+  ["token_begin",46335,0],
+  ["token_end",46335,666]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",24458],
+  ["filename","./wp-includes/js/thickbox/thickbox.css"],
+  ["type",24457,"Html"],
+  ["parsetree_pt",24457,2],
+  ["line_begin",24457,1],
+  ["line_end",24457,156],
+  ["column_begin",24457,1],
+  ["column_end",24457,1],
+  ["token_begin",24457,0],
+  ["token_end",24457,353],
+  ["type",24458,"Start"],
+  ["parsetree_pt",24458,0],
+  ["ast_succ",24458,24457],
+  ["line_end",24458,156],
+  ["column_end",24458,2],
+  ["token_end",24458,354]
+]

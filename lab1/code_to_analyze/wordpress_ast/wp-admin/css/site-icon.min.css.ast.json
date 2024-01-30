@@ -1,0 +1,18 @@
+[
+  ["node_root",579],
+  ["filename","./wp-admin/css/site-icon.min.css"],
+  ["type",578,"Html"],
+  ["parsetree_pt",578,2],
+  ["line_begin",578,1],
+  ["line_end",578,1],
+  ["column_begin",578,1],
+  ["column_end",578,736],
+  ["token_begin",578,0],
+  ["token_end",578,12],
+  ["type",579,"Start"],
+  ["parsetree_pt",579,0],
+  ["ast_succ",579,578],
+  ["line_end",579,1],
+  ["column_end",579,736],
+  ["token_end",579,13]
+]
