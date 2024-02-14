@@ -1,0 +1,19 @@
+[
+  ["node_root",348596],
+  ["filename","./wp-admin/js/tags.js"],
+  ["type",348597,"Exit"],
+  ["type",348596,"Entry"],
+  ["image",348596,"main"],
+  ["ast_pt",348596,316004],
+  ["cfg_succ",348596,348599],
+  ["type",348599,"Html"],
+  ["ast_pt",348599,316003],
+  ["cfg_succ",348599,348597],
+  ["line_begin",348599,1],
+  ["line_end",348599,83],
+  ["column_begin",348599,1],
+  ["column_end",348599,3],
+  ["token_begin",348599,0],
+  ["token_end",348599,359],
+  ["type",348598,"Dead"]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",66157],
+  ["filename","./wp-admin/css/colors/light/colors.min.css"],
+  ["type",66160,"Html"],
+  ["ast_pt",66160,61925],
+  ["cfg_succ",66160,66158],
+  ["line_begin",66160,1],
+  ["line_end",66160,1],
+  ["column_begin",66160,1],
+  ["column_end",66160,11865],
+  ["token_begin",66160,0],
+  ["token_end",66160,506],
+  ["type",66157,"Entry"],
+  ["image",66157,"main"],
+  ["ast_pt",66157,61926],
+  ["cfg_succ",66157,66160],
+  ["type",66159,"Dead"],
+  ["type",66158,"Exit"]
+]

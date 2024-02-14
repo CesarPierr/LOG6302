@@ -1,0 +1,18 @@
+[
+  ["node_root",860192],
+  ["filename","./wp-includes/js/media-audiovideo.js"],
+  ["type",860191,"Html"],
+  ["parsetree_pt",860191,2],
+  ["line_begin",860191,1],
+  ["line_end",860191,921],
+  ["column_begin",860191,1],
+  ["column_end",860191,15],
+  ["token_begin",860191,0],
+  ["token_end",860191,2319],
+  ["type",860192,"Start"],
+  ["parsetree_pt",860192,0],
+  ["ast_succ",860192,860191],
+  ["line_end",860192,921],
+  ["column_end",860192,16],
+  ["token_end",860192,2320]
+]

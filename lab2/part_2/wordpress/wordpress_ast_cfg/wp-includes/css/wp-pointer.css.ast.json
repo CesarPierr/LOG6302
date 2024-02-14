@@ -1,0 +1,18 @@
+[
+  ["node_root",550974],
+  ["filename","./wp-includes/css/wp-pointer.css"],
+  ["type",550973,"Html"],
+  ["parsetree_pt",550973,2],
+  ["line_begin",550973,1],
+  ["line_end",550973,212],
+  ["column_begin",550973,1],
+  ["column_end",550973,1],
+  ["token_begin",550973,0],
+  ["token_end",550973,453],
+  ["type",550974,"Start"],
+  ["parsetree_pt",550974,0],
+  ["ast_succ",550974,550973],
+  ["line_end",550974,212],
+  ["column_end",550974,2],
+  ["token_end",550974,454]
+]

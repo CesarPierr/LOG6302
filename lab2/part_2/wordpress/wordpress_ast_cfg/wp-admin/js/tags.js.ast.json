@@ -1,0 +1,18 @@
+[
+  ["node_root",316004],
+  ["filename","./wp-admin/js/tags.js"],
+  ["type",316004,"Start"],
+  ["parsetree_pt",316004,0],
+  ["ast_succ",316004,316003],
+  ["line_end",316004,83],
+  ["column_end",316004,4],
+  ["token_end",316004,360],
+  ["type",316003,"Html"],
+  ["parsetree_pt",316003,2],
+  ["line_begin",316003,1],
+  ["line_end",316003,83],
+  ["column_begin",316003,1],
+  ["column_end",316003,3],
+  ["token_begin",316003,0],
+  ["token_end",316003,359]
+]

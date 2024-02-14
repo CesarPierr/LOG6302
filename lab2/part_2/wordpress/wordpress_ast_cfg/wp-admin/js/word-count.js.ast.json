@@ -1,0 +1,18 @@
+[
+  ["node_root",316006],
+  ["filename","./wp-admin/js/word-count.js"],
+  ["type",316005,"Html"],
+  ["parsetree_pt",316005,2],
+  ["line_begin",316005,1],
+  ["line_end",316005,220],
+  ["column_begin",316005,1],
+  ["column_end",316005,6],
+  ["token_begin",316005,0],
+  ["token_end",316005,896],
+  ["type",316006,"Start"],
+  ["parsetree_pt",316006,0],
+  ["ast_succ",316006,316005],
+  ["line_end",316006,220],
+  ["column_end",316006,7],
+  ["token_end",316006,897]
+]

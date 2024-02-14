@@ -1,0 +1,18 @@
+[
+  ["node_root",550992],
+  ["filename","./wp-includes/css/media-views-rtl.css"],
+  ["type",550991,"Html"],
+  ["parsetree_pt",550991,2],
+  ["line_begin",550991,1],
+  ["line_end",550991,2716],
+  ["column_begin",550991,1],
+  ["column_end",550991,1],
+  ["token_begin",550991,0],
+  ["token_end",550991,5725],
+  ["type",550992,"Start"],
+  ["parsetree_pt",550992,0],
+  ["ast_succ",550992,550991],
+  ["line_end",550992,2716],
+  ["column_end",550992,2],
+  ["token_end",550992,5726]
+]

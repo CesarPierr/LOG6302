@@ -1,0 +1,18 @@
+[
+  ["node_root",315986],
+  ["filename","./wp-admin/js/custom-background.js"],
+  ["type",315985,"Html"],
+  ["parsetree_pt",315985,2],
+  ["line_begin",315985,1],
+  ["line_end",315985,83],
+  ["column_begin",315985,1],
+  ["column_end",315985,11],
+  ["token_begin",315985,0],
+  ["token_end",315985,256],
+  ["type",315986,"Start"],
+  ["parsetree_pt",315986,0],
+  ["ast_succ",315986,315985],
+  ["line_end",315986,83],
+  ["column_end",315986,12],
+  ["token_end",315986,257]
+]

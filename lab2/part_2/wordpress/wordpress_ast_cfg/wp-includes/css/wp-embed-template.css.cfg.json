@@ -1,0 +1,19 @@
+[
+  ["node_root",584822],
+  ["filename","./wp-includes/css/wp-embed-template.css"],
+  ["type",584824,"Dead"],
+  ["type",584825,"Html"],
+  ["ast_pt",584825,550939],
+  ["cfg_succ",584825,584823],
+  ["line_begin",584825,1],
+  ["line_end",584825,366],
+  ["column_begin",584825,1],
+  ["column_end",584825,1],
+  ["token_begin",584825,0],
+  ["token_end",584825,700],
+  ["type",584822,"Entry"],
+  ["image",584822,"main"],
+  ["ast_pt",584822,550940],
+  ["cfg_succ",584822,584825],
+  ["type",584823,"Exit"]
+]

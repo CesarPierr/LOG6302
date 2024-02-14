@@ -1,0 +1,19 @@
+[
+  ["node_root",825552],
+  ["filename","./wp-includes/js/jquery/suggest.js"],
+  ["type",825552,"Entry"],
+  ["image",825552,"main"],
+  ["ast_pt",825552,860424],
+  ["cfg_succ",825552,825555],
+  ["type",825553,"Exit"],
+  ["type",825554,"Dead"],
+  ["type",825555,"Html"],
+  ["ast_pt",825555,860423],
+  ["cfg_succ",825555,825553],
+  ["line_begin",825555,1],
+  ["line_end",825555,316],
+  ["column_begin",825555,1],
+  ["column_end",825555,11],
+  ["token_begin",825555,0],
+  ["token_end",825555,732]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",315928],
+  ["filename","./wp-admin/js/inline-edit-post.js"],
+  ["type",315927,"Html"],
+  ["parsetree_pt",315927,2],
+  ["line_begin",315927,1],
+  ["line_end",315927,550],
+  ["column_begin",315927,1],
+  ["column_end",315927,24],
+  ["token_begin",315927,0],
+  ["token_end",315927,2206],
+  ["type",315928,"Start"],
+  ["parsetree_pt",315928,0],
+  ["ast_succ",315928,315927],
+  ["line_end",315928,550],
+  ["column_end",315928,25],
+  ["token_end",315928,2207]
+]

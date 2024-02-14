@@ -1,0 +1,19 @@
+[
+  ["node_root",26459],
+  ["filename","./wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js"],
+  ["type",26459,"Entry"],
+  ["image",26459,"main"],
+  ["ast_pt",26459,25239],
+  ["cfg_succ",26459,26462],
+  ["type",26460,"Exit"],
+  ["type",26461,"Dead"],
+  ["type",26462,"Html"],
+  ["ast_pt",26462,25238],
+  ["cfg_succ",26462,26460],
+  ["line_begin",26462,1],
+  ["line_end",26462,26],
+  ["column_begin",26462,1],
+  ["column_end",26462,6],
+  ["token_begin",26462,0],
+  ["token_end",26462,93]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",860328],
+  ["filename","./wp-includes/js/wplink.js"],
+  ["type",860328,"Start"],
+  ["parsetree_pt",860328,0],
+  ["ast_succ",860328,860327],
+  ["line_end",860328,780],
+  ["column_end",860328,44],
+  ["token_end",860328,2575],
+  ["type",860327,"Html"],
+  ["parsetree_pt",860327,2],
+  ["line_begin",860327,1],
+  ["line_end",860327,780],
+  ["column_begin",860327,1],
+  ["column_end",860327,43],
+  ["token_begin",860327,0],
+  ["token_end",860327,2574]
+]

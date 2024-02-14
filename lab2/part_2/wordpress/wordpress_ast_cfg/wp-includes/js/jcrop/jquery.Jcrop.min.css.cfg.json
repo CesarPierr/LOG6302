@@ -1,0 +1,19 @@
+[
+  ["node_root",825684],
+  ["filename","./wp-includes/js/jcrop/jquery.Jcrop.min.css"],
+  ["type",825684,"Entry"],
+  ["image",825684,"main"],
+  ["ast_pt",825684,860490],
+  ["cfg_succ",825684,825687],
+  ["type",825685,"Exit"],
+  ["type",825686,"Dead"],
+  ["type",825687,"Html"],
+  ["ast_pt",825687,860489],
+  ["cfg_succ",825687,825685],
+  ["line_begin",825687,1],
+  ["line_end",825687,29],
+  ["column_begin",825687,1],
+  ["column_end",825687,52],
+  ["token_begin",825687,0],
+  ["token_end",825687,44]
+]

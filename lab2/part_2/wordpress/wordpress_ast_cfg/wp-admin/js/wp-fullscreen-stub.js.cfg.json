@@ -1,0 +1,19 @@
+[
+  ["node_root",348400],
+  ["filename","./wp-admin/js/wp-fullscreen-stub.js"],
+  ["type",348401,"Exit"],
+  ["type",348400,"Entry"],
+  ["image",348400,"main"],
+  ["ast_pt",348400,315906],
+  ["cfg_succ",348400,348403],
+  ["type",348403,"Html"],
+  ["ast_pt",348403,315905],
+  ["cfg_succ",348403,348401],
+  ["line_begin",348403,1],
+  ["line_end",348403,39],
+  ["column_begin",348403,1],
+  ["column_end",348403,5],
+  ["token_begin",348403,0],
+  ["token_end",348403,93],
+  ["type",348402,"Dead"]
+]

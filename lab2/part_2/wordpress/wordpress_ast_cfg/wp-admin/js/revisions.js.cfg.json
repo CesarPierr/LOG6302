@@ -1,0 +1,19 @@
+[
+  ["node_root",348352],
+  ["filename","./wp-admin/js/revisions.js"],
+  ["type",348353,"Exit"],
+  ["type",348352,"Entry"],
+  ["image",348352,"main"],
+  ["ast_pt",348352,315882],
+  ["cfg_succ",348352,348355],
+  ["type",348355,"Html"],
+  ["ast_pt",348355,315881],
+  ["cfg_succ",348355,348353],
+  ["line_begin",348355,1],
+  ["line_end",348355,1169],
+  ["column_begin",348355,1],
+  ["column_end",348355,11],
+  ["token_begin",348355,0],
+  ["token_end",348355,3917],
+  ["type",348354,"Dead"]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",348436],
+  ["filename","./wp-admin/js/postbox.js"],
+  ["type",348437,"Exit"],
+  ["type",348436,"Entry"],
+  ["image",348436,"main"],
+  ["ast_pt",348436,315924],
+  ["cfg_succ",348436,348439],
+  ["type",348439,"Html"],
+  ["ast_pt",348439,315923],
+  ["cfg_succ",348439,348437],
+  ["line_begin",348439,1],
+  ["line_end",348439,443],
+  ["column_begin",348439,1],
+  ["column_end",348439,11],
+  ["token_begin",348439,0],
+  ["token_end",348439,1560],
+  ["type",348438,"Dead"]
+]

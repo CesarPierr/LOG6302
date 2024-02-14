@@ -1,0 +1,18 @@
+[
+  ["node_root",316024],
+  ["filename","./wp-admin/js/tags-box.js"],
+  ["type",316023,"Html"],
+  ["parsetree_pt",316023,2],
+  ["line_begin",316023,1],
+  ["line_end",316023,263],
+  ["column_begin",316023,1],
+  ["column_end",316023,13],
+  ["token_begin",316023,0],
+  ["token_end",316023,981],
+  ["type",316024,"Start"],
+  ["parsetree_pt",316024,0],
+  ["ast_succ",316024,316023],
+  ["line_end",316024,263],
+  ["column_end",316024,14],
+  ["token_end",316024,982]
+]

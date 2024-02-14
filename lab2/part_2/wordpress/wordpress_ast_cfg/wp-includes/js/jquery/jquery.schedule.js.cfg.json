@@ -1,0 +1,19 @@
+[
+  ["node_root",825580],
+  ["filename","./wp-includes/js/jquery/jquery.schedule.js"],
+  ["type",825580,"Entry"],
+  ["image",825580,"main"],
+  ["ast_pt",825580,860438],
+  ["cfg_succ",825580,825583],
+  ["type",825581,"Exit"],
+  ["type",825582,"Dead"],
+  ["type",825583,"Html"],
+  ["ast_pt",825583,860437],
+  ["cfg_succ",825583,825581],
+  ["line_begin",825583,2],
+  ["line_end",825583,36],
+  ["column_begin",825583,1],
+  ["column_end",825583,124],
+  ["token_begin",825583,0],
+  ["token_end",825583,94]
+]

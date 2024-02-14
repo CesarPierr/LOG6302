@@ -1,0 +1,18 @@
+[
+  ["node_root",316008],
+  ["filename","./wp-admin/js/media-gallery.js"],
+  ["type",316007,"Html"],
+  ["parsetree_pt",316007,2],
+  ["line_begin",316007,1],
+  ["line_end",316007,39],
+  ["column_begin",316007,1],
+  ["column_end",316007,3],
+  ["token_begin",316007,0],
+  ["token_end",316007,157],
+  ["type",316008,"Start"],
+  ["parsetree_pt",316008,0],
+  ["ast_succ",316008,316007],
+  ["line_end",316008,39],
+  ["column_end",316008,4],
+  ["token_end",316008,158]
+]

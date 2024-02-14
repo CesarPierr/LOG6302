@@ -1,0 +1,18 @@
+[
+  ["node_root",315838],
+  ["filename","./wp-admin/js/updates.js"],
+  ["type",315837,"Html"],
+  ["parsetree_pt",315837,2],
+  ["line_begin",315837,1],
+  ["line_end",315837,2422],
+  ["column_begin",315837,1],
+  ["column_end",315837,51],
+  ["token_begin",315837,0],
+  ["token_end",315837,9118],
+  ["type",315838,"Start"],
+  ["parsetree_pt",315838,0],
+  ["ast_succ",315838,315837],
+  ["line_end",315838,2422],
+  ["column_end",315838,52],
+  ["token_end",315838,9119]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",65929],
+  ["filename","./wp-admin/css/revisions-rtl.css"],
+  ["type",65929,"Entry"],
+  ["image",65929,"main"],
+  ["ast_pt",65929,61812],
+  ["cfg_succ",65929,65932],
+  ["type",65931,"Dead"],
+  ["type",65930,"Exit"],
+  ["type",65932,"Html"],
+  ["ast_pt",65932,61811],
+  ["cfg_succ",65932,65930],
+  ["line_begin",65932,1],
+  ["line_end",65932,598],
+  ["column_begin",65932,1],
+  ["column_end",65932,1],
+  ["token_begin",65932,0],
+  ["token_end",65932,1133]
+]

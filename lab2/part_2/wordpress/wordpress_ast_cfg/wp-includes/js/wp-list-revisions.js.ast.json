@@ -1,0 +1,18 @@
+[
+  ["node_root",860264],
+  ["filename","./wp-includes/js/wp-list-revisions.js"],
+  ["type",860264,"Start"],
+  ["parsetree_pt",860264,0],
+  ["ast_succ",860264,860263],
+  ["line_end",860264,24],
+  ["column_end",860264,12],
+  ["token_end",860264,131],
+  ["type",860263,"Html"],
+  ["parsetree_pt",860263,2],
+  ["line_begin",860263,1],
+  ["line_end",860263,24],
+  ["column_begin",860263,1],
+  ["column_end",860263,11],
+  ["token_begin",860263,0],
+  ["token_end",860263,130]
+]

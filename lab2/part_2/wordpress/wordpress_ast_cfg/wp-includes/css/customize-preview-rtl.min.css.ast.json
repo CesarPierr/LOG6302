@@ -1,0 +1,18 @@
+[
+  ["node_root",550984],
+  ["filename","./wp-includes/css/customize-preview-rtl.min.css"],
+  ["type",550984,"Start"],
+  ["parsetree_pt",550984,0],
+  ["ast_succ",550984,550983],
+  ["line_end",550984,1],
+  ["column_end",550984,5188],
+  ["token_end",550984,69],
+  ["type",550983,"Html"],
+  ["parsetree_pt",550983,2],
+  ["line_begin",550983,1],
+  ["line_end",550983,1],
+  ["column_begin",550983,1],
+  ["column_end",550983,5188],
+  ["token_begin",550983,0],
+  ["token_end",550983,68]
+]

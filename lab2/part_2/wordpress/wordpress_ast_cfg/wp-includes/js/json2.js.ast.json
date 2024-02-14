@@ -1,0 +1,18 @@
+[
+  ["node_root",859863],
+  ["filename","./wp-includes/js/json2.js"],
+  ["type",859863,"Start"],
+  ["parsetree_pt",859863,0],
+  ["ast_succ",859863,859862],
+  ["line_end",859863,519],
+  ["column_end",859863,5],
+  ["token_end",859863,2244],
+  ["type",859862,"Html"],
+  ["parsetree_pt",859862,2],
+  ["line_begin",859862,1],
+  ["line_end",859862,519],
+  ["column_begin",859862,1],
+  ["column_end",859862,5],
+  ["token_begin",859862,0],
+  ["token_end",859862,2243]
+]

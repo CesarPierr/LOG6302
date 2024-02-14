@@ -1,0 +1,18 @@
+[
+  ["node_root",1008505],
+  ["filename","./license.txt"],
+  ["type",1008505,"Start"],
+  ["parsetree_pt",1008505,0],
+  ["ast_succ",1008505,1008504],
+  ["line_end",1008505,385],
+  ["column_end",1008505,41],
+  ["token_end",1008505,3183],
+  ["type",1008504,"Html"],
+  ["parsetree_pt",1008504,2],
+  ["line_begin",1008504,1],
+  ["line_end",1008504,385],
+  ["column_begin",1008504,1],
+  ["column_end",1008504,39],
+  ["token_begin",1008504,0],
+  ["token_end",1008504,3182]
+]

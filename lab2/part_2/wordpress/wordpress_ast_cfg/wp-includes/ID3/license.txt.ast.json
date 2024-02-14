@@ -1,0 +1,18 @@
+[
+  ["node_root",752585],
+  ["filename","./wp-includes/ID3/license.txt"],
+  ["type",752585,"Start"],
+  ["parsetree_pt",752585,0],
+  ["ast_succ",752585,752584],
+  ["line_end",752585,29],
+  ["column_end",752585,38],
+  ["token_end",752585,94],
+  ["type",752584,"Html"],
+  ["parsetree_pt",752584,2],
+  ["line_begin",752584,1],
+  ["line_end",752584,29],
+  ["column_begin",752584,1],
+  ["column_end",752584,37],
+  ["token_begin",752584,0],
+  ["token_end",752584,93]
+]

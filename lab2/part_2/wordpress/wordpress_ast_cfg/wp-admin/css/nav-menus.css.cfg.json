@@ -1,0 +1,19 @@
+[
+  ["node_root",65845],
+  ["filename","./wp-admin/css/nav-menus.css"],
+  ["type",65845,"Entry"],
+  ["image",65845,"main"],
+  ["ast_pt",65845,61770],
+  ["cfg_succ",65845,65848],
+  ["type",65847,"Dead"],
+  ["type",65846,"Exit"],
+  ["type",65848,"Html"],
+  ["ast_pt",65848,61769],
+  ["cfg_succ",65848,65846],
+  ["line_begin",65848,1],
+  ["line_end",65848,902],
+  ["column_begin",65848,1],
+  ["column_end",65848,1],
+  ["token_begin",65848,0],
+  ["token_end",65848,1807]
+]

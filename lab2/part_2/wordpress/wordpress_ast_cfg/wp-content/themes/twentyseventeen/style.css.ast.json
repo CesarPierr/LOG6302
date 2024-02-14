@@ -1,0 +1,18 @@
+[
+  ["node_root",34232],
+  ["filename","./wp-content/themes/twentyseventeen/style.css"],
+  ["type",34231,"Html"],
+  ["parsetree_pt",34231,2],
+  ["line_begin",34231,1],
+  ["line_end",34231,4282],
+  ["column_begin",34231,1],
+  ["column_end",34231,1],
+  ["token_begin",34231,0],
+  ["token_end",34231,8551],
+  ["type",34232,"Start"],
+  ["parsetree_pt",34232,0],
+  ["ast_succ",34232,34231],
+  ["line_end",34232,4282],
+  ["column_end",34232,2],
+  ["token_end",34232,8552]
+]

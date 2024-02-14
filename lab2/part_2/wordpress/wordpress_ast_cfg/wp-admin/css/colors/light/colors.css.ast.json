@@ -1,0 +1,18 @@
+[
+  ["node_root",61924],
+  ["filename","./wp-admin/css/colors/light/colors.css"],
+  ["type",61923,"Html"],
+  ["parsetree_pt",61923,2],
+  ["line_begin",61923,1],
+  ["line_end",61923,528],
+  ["column_begin",61923,1],
+  ["column_end",61923,1],
+  ["token_begin",61923,0],
+  ["token_end",61923,1395],
+  ["type",61924,"Start"],
+  ["parsetree_pt",61924,0],
+  ["ast_succ",61924,61923],
+  ["line_end",61924,528],
+  ["column_end",61924,2],
+  ["token_end",61924,1396]
+]

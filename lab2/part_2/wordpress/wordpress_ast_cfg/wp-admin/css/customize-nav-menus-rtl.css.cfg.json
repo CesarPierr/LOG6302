@@ -1,0 +1,19 @@
+[
+  ["node_root",66053],
+  ["filename","./wp-admin/css/customize-nav-menus-rtl.css"],
+  ["type",66053,"Entry"],
+  ["image",66053,"main"],
+  ["ast_pt",66053,61874],
+  ["cfg_succ",66053,66056],
+  ["type",66055,"Dead"],
+  ["type",66054,"Exit"],
+  ["type",66056,"Html"],
+  ["ast_pt",66056,61873],
+  ["cfg_succ",66056,66054],
+  ["line_begin",66056,1],
+  ["line_end",66056,864],
+  ["column_begin",66056,1],
+  ["column_end",66056,1],
+  ["token_begin",66056,0],
+  ["token_end",66056,2149]
+]

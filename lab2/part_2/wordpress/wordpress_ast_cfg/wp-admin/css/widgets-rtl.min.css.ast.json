@@ -1,0 +1,18 @@
+[
+  ["node_root",62008],
+  ["filename","./wp-admin/css/widgets-rtl.min.css"],
+  ["type",62007,"Html"],
+  ["parsetree_pt",62007,2],
+  ["line_begin",62007,1],
+  ["line_end",62007,1],
+  ["column_begin",62007,1],
+  ["column_end",62007,10988],
+  ["token_begin",62007,0],
+  ["token_end",62007,298],
+  ["type",62008,"Start"],
+  ["parsetree_pt",62008,0],
+  ["ast_succ",62008,62007],
+  ["line_end",62008,1],
+  ["column_end",62008,10988],
+  ["token_end",62008,299]
+]

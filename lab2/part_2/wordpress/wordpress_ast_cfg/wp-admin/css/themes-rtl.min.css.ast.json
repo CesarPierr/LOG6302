@@ -1,0 +1,18 @@
+[
+  ["node_root",61990],
+  ["filename","./wp-admin/css/themes-rtl.min.css"],
+  ["type",61989,"Html"],
+  ["parsetree_pt",61989,2],
+  ["line_begin",61989,1],
+  ["line_end",61989,1],
+  ["column_begin",61989,1],
+  ["column_end",61989,33338],
+  ["token_begin",61989,0],
+  ["token_end",61989,957],
+  ["type",61990,"Start"],
+  ["parsetree_pt",61990,0],
+  ["ast_succ",61990,61989],
+  ["line_end",61990,1],
+  ["column_end",61990,33338],
+  ["token_end",61990,958]
+]

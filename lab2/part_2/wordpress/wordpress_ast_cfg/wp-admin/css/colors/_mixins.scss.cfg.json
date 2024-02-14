@@ -1,0 +1,19 @@
+[
+  ["node_root",66169],
+  ["filename","./wp-admin/css/colors/_mixins.scss"],
+  ["type",66169,"Entry"],
+  ["image",66169,"main"],
+  ["ast_pt",66169,61932],
+  ["cfg_succ",66169,66172],
+  ["type",66171,"Dead"],
+  ["type",66170,"Exit"],
+  ["type",66172,"Html"],
+  ["ast_pt",66172,61931],
+  ["cfg_succ",66172,66170],
+  ["line_begin",66172,1],
+  ["line_end",66172,51],
+  ["column_begin",66172,1],
+  ["column_end",66172,1],
+  ["token_begin",66172,0],
+  ["token_end",66172,197]
+]

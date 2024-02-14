@@ -1,0 +1,18 @@
+[
+  ["node_root",61838],
+  ["filename","./wp-admin/css/list-tables-rtl.css"],
+  ["type",61837,"Html"],
+  ["parsetree_pt",61837,2],
+  ["line_begin",61837,1],
+  ["line_end",61837,2166],
+  ["column_begin",61837,1],
+  ["column_end",61837,1],
+  ["token_begin",61837,0],
+  ["token_end",61837,4510],
+  ["type",61838,"Start"],
+  ["parsetree_pt",61838,0],
+  ["ast_succ",61838,61837],
+  ["line_end",61838,2166],
+  ["column_end",61838,2],
+  ["token_end",61838,4511]
+]

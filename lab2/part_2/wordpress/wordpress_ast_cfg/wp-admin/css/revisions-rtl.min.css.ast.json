@@ -1,0 +1,18 @@
+[
+  ["node_root",62006],
+  ["filename","./wp-admin/css/revisions-rtl.min.css"],
+  ["type",62005,"Html"],
+  ["parsetree_pt",62005,2],
+  ["line_begin",62005,1],
+  ["line_end",62005,1],
+  ["column_begin",62005,1],
+  ["column_end",62005,8698],
+  ["token_begin",62005,0],
+  ["token_end",62005,187],
+  ["type",62006,"Start"],
+  ["parsetree_pt",62006,0],
+  ["ast_succ",62006,62005],
+  ["line_end",62006,1],
+  ["column_end",62006,8698],
+  ["token_end",62006,188]
+]

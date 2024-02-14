@@ -1,0 +1,19 @@
+[
+  ["node_root",25433],
+  ["filename","./wp-content/themes/twentyfifteen/genericons/README.md"],
+  ["type",25433,"Entry"],
+  ["image",25433,"main"],
+  ["ast_pt",25433,24521],
+  ["cfg_succ",25433,25436],
+  ["type",25434,"Exit"],
+  ["type",25435,"Dead"],
+  ["type",25436,"Html"],
+  ["ast_pt",25436,24520],
+  ["cfg_succ",25436,25434],
+  ["line_begin",25436,1],
+  ["line_end",25436,152],
+  ["column_begin",25436,1],
+  ["column_end",25436,22],
+  ["token_begin",25436,0],
+  ["token_end",25436,1072]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",66281],
+  ["filename","./wp-admin/css/l10n-rtl.min.css"],
+  ["type",66281,"Entry"],
+  ["image",66281,"main"],
+  ["ast_pt",66281,61988],
+  ["cfg_succ",66281,66284],
+  ["type",66283,"Dead"],
+  ["type",66282,"Exit"],
+  ["type",66284,"Html"],
+  ["ast_pt",66284,61987],
+  ["cfg_succ",66284,66282],
+  ["line_begin",66284,1],
+  ["line_end",66284,1],
+  ["column_begin",66284,1],
+  ["column_end",66284,2426],
+  ["token_begin",66284,0],
+  ["token_end",66284,109]
+]

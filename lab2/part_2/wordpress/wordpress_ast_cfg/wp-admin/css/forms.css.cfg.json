@@ -1,0 +1,19 @@
+[
+  ["node_root",65877],
+  ["filename","./wp-admin/css/forms.css"],
+  ["type",65877,"Entry"],
+  ["image",65877,"main"],
+  ["ast_pt",65877,61786],
+  ["cfg_succ",65877,65880],
+  ["type",65879,"Dead"],
+  ["type",65878,"Exit"],
+  ["type",65880,"Html"],
+  ["ast_pt",65880,61785],
+  ["cfg_succ",65880,65878],
+  ["line_begin",65880,1],
+  ["line_end",65880,1422],
+  ["column_begin",65880,1],
+  ["column_end",65880,1],
+  ["token_begin",65880,0],
+  ["token_end",65880,2661]
+]

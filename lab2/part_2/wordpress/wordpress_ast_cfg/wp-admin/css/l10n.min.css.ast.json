@@ -1,0 +1,18 @@
+[
+  ["node_root",61904],
+  ["filename","./wp-admin/css/l10n.min.css"],
+  ["type",61904,"Start"],
+  ["parsetree_pt",61904,0],
+  ["ast_succ",61904,61903],
+  ["line_end",61904,1],
+  ["column_end",61904,2423],
+  ["token_end",61904,110],
+  ["type",61903,"Html"],
+  ["parsetree_pt",61903,2],
+  ["line_begin",61903,1],
+  ["line_end",61903,1],
+  ["column_begin",61903,1],
+  ["column_end",61903,2423],
+  ["token_begin",61903,0],
+  ["token_end",61903,109]
+]

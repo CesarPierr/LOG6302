@@ -1,0 +1,18 @@
+[
+  ["node_root",3898],
+  ["filename","./wp-content/plugins/akismet/_inc/form.js"],
+  ["type",3897,"Html"],
+  ["parsetree_pt",3897,2],
+  ["line_begin",3897,1],
+  ["line_end",3897,30],
+  ["column_begin",3897,1],
+  ["column_end",3897,1],
+  ["token_begin",3897,0],
+  ["token_end",3897,89],
+  ["type",3898,"Start"],
+  ["parsetree_pt",3898,0],
+  ["ast_succ",3898,3897],
+  ["line_end",3898,30],
+  ["column_end",3898,1],
+  ["token_end",3898,90]
+]

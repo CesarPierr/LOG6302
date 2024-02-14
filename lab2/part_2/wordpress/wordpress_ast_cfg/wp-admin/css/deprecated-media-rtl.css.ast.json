@@ -1,0 +1,18 @@
+[
+  ["node_root",61888],
+  ["filename","./wp-admin/css/deprecated-media-rtl.css"],
+  ["type",61888,"Start"],
+  ["parsetree_pt",61888,0],
+  ["ast_succ",61888,61887],
+  ["line_end",61888,418],
+  ["column_end",61888,2],
+  ["token_end",61888,759],
+  ["type",61887,"Html"],
+  ["parsetree_pt",61887,2],
+  ["line_begin",61887,1],
+  ["line_end",61887,418],
+  ["column_begin",61887,1],
+  ["column_end",61887,1],
+  ["token_begin",61887,0],
+  ["token_end",61887,758]
+]

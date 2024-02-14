@@ -1,0 +1,18 @@
+[
+  ["node_root",315916],
+  ["filename","./wp-admin/js/widgets.js"],
+  ["type",315916,"Start"],
+  ["parsetree_pt",315916,0],
+  ["ast_succ",315916,315915],
+  ["line_end",315916,612],
+  ["column_end",315916,12],
+  ["token_end",315916,2004],
+  ["type",315915,"Html"],
+  ["parsetree_pt",315915,2],
+  ["line_begin",315915,1],
+  ["line_end",315915,612],
+  ["column_begin",315915,1],
+  ["column_end",315915,11],
+  ["token_begin",315915,0],
+  ["token_end",315915,2003]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",29990],
+  ["filename","./wp-content/themes/twentysixteen/js/keyboard-image-navigation.js"],
+  ["type",29990,"Entry"],
+  ["image",29990,"main"],
+  ["ast_pt",29990,32212],
+  ["cfg_succ",29990,29993],
+  ["type",29991,"Exit"],
+  ["type",29992,"Dead"],
+  ["type",29993,"Html"],
+  ["ast_pt",29993,32211],
+  ["cfg_succ",29993,29991],
+  ["line_begin",29993,1],
+  ["line_end",29993,26],
+  ["column_begin",29993,1],
+  ["column_end",29993,14],
+  ["token_begin",29993,0],
+  ["token_end",29993,100]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",979894],
+  ["filename","./license.txt"],
+  ["type",979896,"Dead"],
+  ["type",979897,"Html"],
+  ["ast_pt",979897,1008504],
+  ["cfg_succ",979897,979895],
+  ["line_begin",979897,1],
+  ["line_end",979897,385],
+  ["column_begin",979897,1],
+  ["column_end",979897,39],
+  ["token_begin",979897,0],
+  ["token_end",979897,3182],
+  ["type",979894,"Entry"],
+  ["image",979894,"main"],
+  ["ast_pt",979894,1008505],
+  ["cfg_succ",979894,979897],
+  ["type",979895,"Exit"]
+]

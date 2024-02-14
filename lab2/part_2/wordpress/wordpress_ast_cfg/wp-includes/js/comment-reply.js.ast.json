@@ -1,0 +1,18 @@
+[
+  ["node_root",860466],
+  ["filename","./wp-includes/js/comment-reply.js"],
+  ["type",860465,"Html"],
+  ["parsetree_pt",860465,2],
+  ["line_begin",860465,1],
+  ["line_end",860465,96],
+  ["column_begin",860465,1],
+  ["column_end",860465,2],
+  ["token_begin",860465,0],
+  ["token_end",860465,381],
+  ["type",860466,"Start"],
+  ["parsetree_pt",860466,0],
+  ["ast_succ",860466,860465],
+  ["line_end",860466,96],
+  ["column_end",860466,3],
+  ["token_end",860466,382]
+]

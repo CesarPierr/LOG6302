@@ -1,0 +1,18 @@
+[
+  ["node_root",407602],
+  ["filename","./wp-includes/wlwmanifest.xml"],
+  ["type",407602,"Start"],
+  ["parsetree_pt",407602,0],
+  ["ast_succ",407602,407601],
+  ["line_end",407602,43],
+  ["column_end",407602,12],
+  ["token_end",407602,95],
+  ["type",407601,"Html"],
+  ["parsetree_pt",407601,2],
+  ["line_begin",407601,1],
+  ["line_end",407601,43],
+  ["column_begin",407601,1],
+  ["column_end",407601,11],
+  ["token_begin",407601,0],
+  ["token_end",407601,94]
+]

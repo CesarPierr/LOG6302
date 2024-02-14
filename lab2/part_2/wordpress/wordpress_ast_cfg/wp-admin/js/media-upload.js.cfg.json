@@ -1,0 +1,19 @@
+[
+  ["node_root",348556],
+  ["filename","./wp-admin/js/media-upload.js"],
+  ["type",348557,"Exit"],
+  ["type",348556,"Entry"],
+  ["image",348556,"main"],
+  ["ast_pt",348556,315984],
+  ["cfg_succ",348556,348559],
+  ["type",348559,"Html"],
+  ["ast_pt",348559,315983],
+  ["cfg_succ",348559,348557],
+  ["line_begin",348559,1],
+  ["line_end",348559,69],
+  ["column_begin",348559,1],
+  ["column_end",348559,11],
+  ["token_begin",348559,0],
+  ["token_end",348559,291],
+  ["type",348558,"Dead"]
+]

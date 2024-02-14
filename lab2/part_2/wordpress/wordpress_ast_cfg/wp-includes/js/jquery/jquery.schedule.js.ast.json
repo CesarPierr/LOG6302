@@ -1,0 +1,18 @@
+[
+  ["node_root",860438],
+  ["filename","./wp-includes/js/jquery/jquery.schedule.js"],
+  ["type",860437,"Html"],
+  ["parsetree_pt",860437,2],
+  ["line_begin",860437,2],
+  ["line_end",860437,36],
+  ["column_begin",860437,1],
+  ["column_end",860437,124],
+  ["token_begin",860437,0],
+  ["token_end",860437,94],
+  ["type",860438,"Start"],
+  ["parsetree_pt",860438,0],
+  ["ast_succ",860438,860437],
+  ["line_end",860438,36],
+  ["column_end",860438,124],
+  ["token_end",860438,95]
+]

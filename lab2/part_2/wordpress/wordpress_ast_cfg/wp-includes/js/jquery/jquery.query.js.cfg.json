@@ -1,0 +1,19 @@
+[
+  ["node_root",825576],
+  ["filename","./wp-includes/js/jquery/jquery.query.js"],
+  ["type",825576,"Entry"],
+  ["image",825576,"main"],
+  ["ast_pt",825576,860436],
+  ["cfg_succ",825576,825579],
+  ["type",825577,"Exit"],
+  ["type",825578,"Dead"],
+  ["type",825579,"Html"],
+  ["ast_pt",825579,860435],
+  ["cfg_succ",825579,825577],
+  ["line_begin",825579,1],
+  ["line_end",825579,11],
+  ["column_begin",825579,1],
+  ["column_end",825579,3505],
+  ["token_begin",825579,0],
+  ["token_end",825579,124]
+]

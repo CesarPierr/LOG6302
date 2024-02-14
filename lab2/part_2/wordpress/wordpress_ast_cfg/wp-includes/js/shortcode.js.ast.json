@@ -1,0 +1,18 @@
+[
+  ["node_root",860318],
+  ["filename","./wp-includes/js/shortcode.js"],
+  ["type",860317,"Html"],
+  ["parsetree_pt",860317,2],
+  ["line_begin",860317,1],
+  ["line_end",860317,351],
+  ["column_begin",860317,1],
+  ["column_end",860317,5],
+  ["token_begin",860317,0],
+  ["token_end",860317,1607],
+  ["type",860318,"Start"],
+  ["parsetree_pt",860318,0],
+  ["ast_succ",860318,860317],
+  ["line_end",860318,351],
+  ["column_end",860318,6],
+  ["token_end",860318,1608]
+]

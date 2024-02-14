@@ -1,0 +1,19 @@
+[
+  ["node_root",825648],
+  ["filename","./wp-includes/js/hoverIntent.js"],
+  ["type",825648,"Entry"],
+  ["image",825648,"main"],
+  ["ast_pt",825648,860472],
+  ["cfg_succ",825648,825651],
+  ["type",825649,"Exit"],
+  ["type",825650,"Dead"],
+  ["type",825651,"Html"],
+  ["ast_pt",825651,860471],
+  ["cfg_succ",825651,825649],
+  ["line_begin",825651,1],
+  ["line_end",825651,115],
+  ["column_begin",825651,1],
+  ["column_end",825651,11],
+  ["token_begin",825651,0],
+  ["token_end",825651,593]
+]

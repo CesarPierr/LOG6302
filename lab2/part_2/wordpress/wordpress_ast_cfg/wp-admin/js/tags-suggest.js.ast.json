@@ -1,0 +1,18 @@
+[
+  ["node_root",315856],
+  ["filename","./wp-admin/js/tags-suggest.js"],
+  ["type",315856,"Start"],
+  ["parsetree_pt",315856,0],
+  ["ast_succ",315856,315855],
+  ["line_end",315856,185],
+  ["column_end",315856,15],
+  ["token_end",315856,698],
+  ["type",315855,"Html"],
+  ["parsetree_pt",315855,2],
+  ["line_begin",315855,1],
+  ["line_end",315855,185],
+  ["column_begin",315855,1],
+  ["column_end",315855,14],
+  ["token_begin",315855,0],
+  ["token_end",315855,697]
+]

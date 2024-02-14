@@ -1,0 +1,19 @@
+[
+  ["node_root",825644],
+  ["filename","./wp-includes/js/utils.js"],
+  ["type",825644,"Entry"],
+  ["image",825644,"main"],
+  ["ast_pt",825644,860470],
+  ["cfg_succ",825644,825647],
+  ["type",825645,"Exit"],
+  ["type",825646,"Dead"],
+  ["type",825647,"Html"],
+  ["ast_pt",825647,860469],
+  ["cfg_succ",825647,825645],
+  ["line_begin",825647,1],
+  ["line_end",825647,197],
+  ["column_begin",825647,1],
+  ["column_end",825647,1],
+  ["token_begin",825647,0],
+  ["token_end",825647,784]
+]

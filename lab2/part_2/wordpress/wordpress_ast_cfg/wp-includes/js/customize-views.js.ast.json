@@ -1,0 +1,18 @@
+[
+  ["node_root",860474],
+  ["filename","./wp-includes/js/customize-views.js"],
+  ["type",860473,"Html"],
+  ["parsetree_pt",860473,2],
+  ["line_begin",860473,1],
+  ["line_end",860473,186],
+  ["column_begin",860473,1],
+  ["column_end",860473,27],
+  ["token_begin",860473,0],
+  ["token_end",860473,391],
+  ["type",860474,"Start"],
+  ["parsetree_pt",860474,0],
+  ["ast_succ",860474,860473],
+  ["line_end",860474,186],
+  ["column_end",860474,28],
+  ["token_end",860474,392]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",315982],
+  ["filename","./wp-admin/js/svg-painter.js"],
+  ["type",315981,"Html"],
+  ["parsetree_pt",315981,2],
+  ["line_begin",315981,1],
+  ["line_end",315981,240],
+  ["column_begin",315981,1],
+  ["column_end",315981,31],
+  ["token_begin",315981,0],
+  ["token_end",315981,770],
+  ["type",315982,"Start"],
+  ["parsetree_pt",315982,0],
+  ["ast_succ",315982,315981],
+  ["line_end",315982,240],
+  ["column_end",315982,32],
+  ["token_end",315982,771]
+]

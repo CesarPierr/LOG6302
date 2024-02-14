@@ -1,0 +1,19 @@
+[
+  ["node_root",824535],
+  ["filename","./wp-includes/js/plupload/handlers.js"],
+  ["type",824536,"Exit"],
+  ["type",824537,"Dead"],
+  ["type",824538,"Html"],
+  ["ast_pt",824538,859848],
+  ["cfg_succ",824538,824536],
+  ["line_begin",824538,1],
+  ["line_end",824538,506],
+  ["column_begin",824538,1],
+  ["column_end",824538,3],
+  ["token_begin",824538,0],
+  ["token_end",824538,1725],
+  ["type",824535,"Entry"],
+  ["image",824535,"main"],
+  ["ast_pt",824535,859849],
+  ["cfg_succ",824535,824538]
+]

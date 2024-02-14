@@ -1,0 +1,19 @@
+[
+  ["node_root",825324],
+  ["filename","./wp-includes/js/media-grid.js"],
+  ["type",825324,"Entry"],
+  ["image",825324,"main"],
+  ["ast_pt",825324,860310],
+  ["cfg_succ",825324,825327],
+  ["type",825325,"Exit"],
+  ["type",825326,"Dead"],
+  ["type",825327,"Html"],
+  ["ast_pt",825327,860309],
+  ["cfg_succ",825327,825325],
+  ["line_begin",825327,1],
+  ["line_end",825327,864],
+  ["column_begin",825327,1],
+  ["column_end",825327,15],
+  ["token_begin",825327,0],
+  ["token_end",825327,2502]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",66305],
+  ["filename","./wp-admin/css/admin-menu.css"],
+  ["type",66305,"Entry"],
+  ["image",66305,"main"],
+  ["ast_pt",66305,62000],
+  ["cfg_succ",66305,66308],
+  ["type",66307,"Dead"],
+  ["type",66306,"Exit"],
+  ["type",66308,"Html"],
+  ["ast_pt",66308,61999],
+  ["cfg_succ",66308,66306],
+  ["line_begin",66308,1],
+  ["line_end",66308,943],
+  ["column_begin",66308,1],
+  ["column_end",66308,1],
+  ["token_begin",66308,0],
+  ["token_end",66308,2062]
+]

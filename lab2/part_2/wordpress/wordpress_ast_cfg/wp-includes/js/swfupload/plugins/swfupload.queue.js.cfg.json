@@ -1,0 +1,19 @@
+[
+  ["node_root",825192],
+  ["filename","./wp-includes/js/swfupload/plugins/swfupload.queue.js"],
+  ["type",825192,"Entry"],
+  ["image",825192,"main"],
+  ["ast_pt",825192,860244],
+  ["cfg_succ",825192,825195],
+  ["type",825193,"Exit"],
+  ["type",825194,"Dead"],
+  ["type",825195,"Html"],
+  ["ast_pt",825195,860243],
+  ["cfg_succ",825195,825193],
+  ["line_begin",825195,1],
+  ["line_end",825195,98],
+  ["column_begin",825195,1],
+  ["column_end",825195,1],
+  ["token_begin",825195,0],
+  ["token_end",825195,313]
+]

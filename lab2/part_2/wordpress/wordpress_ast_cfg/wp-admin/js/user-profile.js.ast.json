@@ -1,0 +1,18 @@
+[
+  ["node_root",315918],
+  ["filename","./wp-admin/js/user-profile.js"],
+  ["type",315917,"Html"],
+  ["parsetree_pt",315917,2],
+  ["line_begin",315917,1],
+  ["line_end",315917,470],
+  ["column_begin",315917,1],
+  ["column_end",315917,11],
+  ["token_begin",315917,0],
+  ["token_end",315917,1419],
+  ["type",315918,"Start"],
+  ["parsetree_pt",315918,0],
+  ["ast_succ",315918,315917],
+  ["line_end",315918,470],
+  ["column_end",315918,12],
+  ["token_end",315918,1420]
+]

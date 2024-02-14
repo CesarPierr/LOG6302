@@ -1,0 +1,18 @@
+[
+  ["node_root",315968],
+  ["filename","./wp-admin/js/widgets/media-audio-widget.js"],
+  ["type",315968,"Start"],
+  ["parsetree_pt",315968,0],
+  ["ast_succ",315968,315967],
+  ["line_end",315968,150],
+  ["column_end",315968,23],
+  ["token_end",315968,383],
+  ["type",315967,"Html"],
+  ["parsetree_pt",315967,2],
+  ["line_begin",315967,1],
+  ["line_end",315967,150],
+  ["column_begin",315967,1],
+  ["column_end",315967,22],
+  ["token_begin",315967,0],
+  ["token_end",315967,382]
+]

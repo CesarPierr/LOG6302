@@ -1,0 +1,19 @@
+[
+  ["node_root",23603],
+  ["filename","./wp-content/plugins/akismet/readme.txt"],
+  ["type",23603,"Entry"],
+  ["image",23603,"main"],
+  ["ast_pt",23603,19445],
+  ["cfg_succ",23603,23606],
+  ["type",23604,"Exit"],
+  ["type",23605,"Dead"],
+  ["type",23606,"Html"],
+  ["ast_pt",23606,19444],
+  ["cfg_succ",23606,23604],
+  ["line_begin",23606,1],
+  ["line_end",23606,376],
+  ["column_begin",23606,1],
+  ["column_end",23606,58],
+  ["token_begin",23606,0],
+  ["token_end",23606,2713]
+]

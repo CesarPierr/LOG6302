@@ -1,0 +1,19 @@
+[
+  ["node_root",25441],
+  ["filename","./wp-content/themes/twentyfifteen/genericons/LICENSE.txt"],
+  ["type",25441,"Entry"],
+  ["image",25441,"main"],
+  ["ast_pt",25441,24525],
+  ["cfg_succ",25441,25444],
+  ["type",25442,"Exit"],
+  ["type",25443,"Dead"],
+  ["type",25444,"Html"],
+  ["ast_pt",25444,24524],
+  ["cfg_succ",25444,25442],
+  ["line_begin",25444,1],
+  ["line_end",25444,339],
+  ["column_begin",25444,21],
+  ["column_end",25444,39],
+  ["token_begin",25444,0],
+  ["token_end",25444,2971]
+]

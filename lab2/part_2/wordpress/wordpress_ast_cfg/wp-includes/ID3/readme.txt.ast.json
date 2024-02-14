@@ -1,0 +1,18 @@
+[
+  ["node_root",775797],
+  ["filename","./wp-includes/ID3/readme.txt"],
+  ["type",775797,"Start"],
+  ["parsetree_pt",775797,0],
+  ["ast_succ",775797,775796],
+  ["line_end",775797,604],
+  ["column_end",775797,66],
+  ["token_end",775797,2816],
+  ["type",775796,"Html"],
+  ["parsetree_pt",775796,2],
+  ["line_begin",775796,1],
+  ["line_end",775796,604],
+  ["column_begin",775796,1],
+  ["column_end",775796,66],
+  ["token_begin",775796,0],
+  ["token_end",775796,2815]
+]

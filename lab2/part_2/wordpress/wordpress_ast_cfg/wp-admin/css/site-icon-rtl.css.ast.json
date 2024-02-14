@@ -1,0 +1,18 @@
+[
+  ["node_root",61836],
+  ["filename","./wp-admin/css/site-icon-rtl.css"],
+  ["type",61835,"Html"],
+  ["parsetree_pt",61835,2],
+  ["line_begin",61835,1],
+  ["line_end",61835,55],
+  ["column_begin",61835,1],
+  ["column_end",61835,1],
+  ["token_begin",61835,0],
+  ["token_end",61835,96],
+  ["type",61836,"Start"],
+  ["parsetree_pt",61836,0],
+  ["ast_succ",61836,61835],
+  ["line_end",61836,55],
+  ["column_end",61836,2],
+  ["token_end",61836,97]
+]

@@ -1,0 +1,10 @@
+[
+  ["node_root",23715],
+  ["filename","./wp-content/plugins/index.php"],
+  ["type",23715,"Entry"],
+  ["image",23715,"main"],
+  ["ast_pt",23715,19532],
+  ["cfg_succ",23715,23716],
+  ["type",23716,"Exit"],
+  ["type",23717,"Dead"]
+]

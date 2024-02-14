@@ -1,0 +1,18 @@
+[
+  ["node_root",860486],
+  ["filename","./wp-includes/js/wp-auth-check.js"],
+  ["type",860485,"Html"],
+  ["parsetree_pt",860485,2],
+  ["line_begin",860485,1],
+  ["line_end",860485,117],
+  ["column_begin",860485,1],
+  ["column_end",860485,11],
+  ["token_begin",860485,0],
+  ["token_end",860485,403],
+  ["type",860486,"Start"],
+  ["parsetree_pt",860486,0],
+  ["ast_succ",860486,860485],
+  ["line_end",860486,117],
+  ["column_end",860486,12],
+  ["token_end",860486,404]
+]

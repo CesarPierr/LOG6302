@@ -1,0 +1,19 @@
+[
+  ["node_root",825100],
+  ["filename","./wp-includes/js/swfobject.js"],
+  ["type",825100,"Entry"],
+  ["image",825100,"main"],
+  ["ast_pt",825100,860198],
+  ["cfg_succ",825100,825103],
+  ["type",825101,"Exit"],
+  ["type",825102,"Dead"],
+  ["type",825103,"Html"],
+  ["ast_pt",825103,860197],
+  ["cfg_succ",825103,825101],
+  ["line_begin",825103,1],
+  ["line_end",825103,4],
+  ["column_begin",825103,1],
+  ["column_end",825103,10082],
+  ["token_begin",825103,0],
+  ["token_end",825103,227]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",66341],
+  ["filename","./wp-admin/css/login.css"],
+  ["type",66341,"Entry"],
+  ["image",66341,"main"],
+  ["ast_pt",66341,62018],
+  ["cfg_succ",66341,66344],
+  ["type",66343,"Dead"],
+  ["type",66342,"Exit"],
+  ["type",66344,"Html"],
+  ["ast_pt",66344,62017],
+  ["cfg_succ",66344,66342],
+  ["line_begin",66344,1],
+  ["line_end",66344,263],
+  ["column_begin",66344,1],
+  ["column_end",66344,1],
+  ["token_begin",66344,0],
+  ["token_end",66344,547]
+]

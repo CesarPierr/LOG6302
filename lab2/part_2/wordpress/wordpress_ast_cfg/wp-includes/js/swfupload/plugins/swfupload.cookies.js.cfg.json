@@ -1,0 +1,19 @@
+[
+  ["node_root",825184],
+  ["filename","./wp-includes/js/swfupload/plugins/swfupload.cookies.js"],
+  ["type",825184,"Entry"],
+  ["image",825184,"main"],
+  ["ast_pt",825184,860240],
+  ["cfg_succ",825184,825187],
+  ["type",825185,"Exit"],
+  ["type",825186,"Dead"],
+  ["type",825187,"Html"],
+  ["ast_pt",825187,860239],
+  ["cfg_succ",825187,825185],
+  ["line_begin",825187,1],
+  ["line_end",825187,53],
+  ["column_begin",825187,1],
+  ["column_end",825187,1],
+  ["token_begin",825187,0],
+  ["token_end",825187,203]
+]

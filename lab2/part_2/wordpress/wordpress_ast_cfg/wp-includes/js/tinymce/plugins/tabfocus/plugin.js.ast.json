@@ -1,0 +1,18 @@
+[
+  ["node_root",859937],
+  ["filename","./wp-includes/js/tinymce/plugins/tabfocus/plugin.js"],
+  ["type",859937,"Start"],
+  ["parsetree_pt",859937,0],
+  ["ast_succ",859937,859936],
+  ["line_end",859937,348],
+  ["column_end",859937,6],
+  ["token_end",859937,907],
+  ["type",859936,"Html"],
+  ["parsetree_pt",859936,2],
+  ["line_begin",859936,1],
+  ["line_end",859936,348],
+  ["column_begin",859936,1],
+  ["column_end",859936,5],
+  ["token_begin",859936,0],
+  ["token_end",859936,906]
+]

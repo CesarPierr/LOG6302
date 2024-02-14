@@ -1,0 +1,18 @@
+[
+  ["node_root",39364],
+  ["filename","./wp-content/themes/twentyseventeen/assets/js/jquery.scrollTo.js"],
+  ["type",39363,"Html"],
+  ["parsetree_pt",39363,2],
+  ["line_begin",39363,1],
+  ["line_end",39363,209],
+  ["column_begin",39363,1],
+  ["column_end",39363,3],
+  ["token_begin",39363,0],
+  ["token_end",39363,850],
+  ["type",39364,"Start"],
+  ["parsetree_pt",39364,0],
+  ["ast_succ",39364,39363],
+  ["line_end",39364,209],
+  ["column_end",39364,4],
+  ["token_end",39364,851]
+]

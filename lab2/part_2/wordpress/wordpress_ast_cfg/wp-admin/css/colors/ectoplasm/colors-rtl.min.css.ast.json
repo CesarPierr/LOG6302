@@ -1,0 +1,18 @@
+[
+  ["node_root",61946],
+  ["filename","./wp-admin/css/colors/ectoplasm/colors-rtl.min.css"],
+  ["type",61945,"Html"],
+  ["parsetree_pt",61945,2],
+  ["line_begin",61945,1],
+  ["line_end",61945,1],
+  ["column_begin",61945,1],
+  ["column_end",61945,11473],
+  ["token_begin",61945,0],
+  ["token_end",61945,495],
+  ["type",61946,"Start"],
+  ["parsetree_pt",61946,0],
+  ["ast_succ",61946,61945],
+  ["line_end",61946,1],
+  ["column_end",61946,11473],
+  ["token_end",61946,496]
+]

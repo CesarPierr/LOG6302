@@ -1,0 +1,19 @@
+[
+  ["node_root",825050],
+  ["filename","./wp-includes/js/zxcvbn-async.js"],
+  ["type",825052,"Dead"],
+  ["type",825053,"Html"],
+  ["ast_pt",825053,860170],
+  ["cfg_succ",825053,825051],
+  ["line_begin",825053,1],
+  ["line_end",825053,18],
+  ["column_begin",825053,1],
+  ["column_end",825053,14],
+  ["token_begin",825053,0],
+  ["token_end",825053,47],
+  ["type",825050,"Entry"],
+  ["image",825050,"main"],
+  ["ast_pt",825050,860171],
+  ["cfg_succ",825050,825053],
+  ["type",825051,"Exit"]
+]

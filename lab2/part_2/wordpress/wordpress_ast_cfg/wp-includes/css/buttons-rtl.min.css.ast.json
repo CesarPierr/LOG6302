@@ -1,0 +1,18 @@
+[
+  ["node_root",550996],
+  ["filename","./wp-includes/css/buttons-rtl.min.css"],
+  ["type",550995,"Html"],
+  ["parsetree_pt",550995,2],
+  ["line_begin",550995,1],
+  ["line_end",550995,1],
+  ["column_begin",550995,1],
+  ["column_end",550995,7107],
+  ["token_begin",550995,0],
+  ["token_end",550995,249],
+  ["type",550996,"Start"],
+  ["parsetree_pt",550996,0],
+  ["ast_succ",550996,550995],
+  ["line_end",550996,1],
+  ["column_end",550996,7107],
+  ["token_end",550996,250]
+]

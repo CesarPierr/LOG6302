@@ -1,0 +1,19 @@
+[
+  ["node_root",824775],
+  ["filename","./wp-includes/js/tinymce/license.txt"],
+  ["type",824776,"Exit"],
+  ["type",824777,"Dead"],
+  ["type",824778,"Html"],
+  ["ast_pt",824778,859968],
+  ["cfg_succ",824778,824776],
+  ["line_begin",824778,1],
+  ["line_end",824778,502],
+  ["column_begin",824778,7],
+  ["column_end",824778,26],
+  ["token_begin",824778,0],
+  ["token_end",824778,4375],
+  ["type",824775,"Entry"],
+  ["image",824775,"main"],
+  ["ast_pt",824775,859969],
+  ["cfg_succ",824775,824778]
+]

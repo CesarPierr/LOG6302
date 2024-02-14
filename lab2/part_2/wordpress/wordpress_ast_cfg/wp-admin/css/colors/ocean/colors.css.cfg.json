@@ -1,0 +1,19 @@
+[
+  ["node_root",66225],
+  ["filename","./wp-admin/css/colors/ocean/colors.css"],
+  ["type",66225,"Entry"],
+  ["image",66225,"main"],
+  ["ast_pt",66225,61960],
+  ["cfg_succ",66225,66228],
+  ["type",66227,"Dead"],
+  ["type",66226,"Exit"],
+  ["type",66228,"Html"],
+  ["ast_pt",66228,61959],
+  ["cfg_succ",66228,66226],
+  ["line_begin",66228,1],
+  ["line_end",66228,510],
+  ["column_begin",66228,1],
+  ["column_end",66228,1],
+  ["token_begin",66228,0],
+  ["token_end",66228,1315]
+]

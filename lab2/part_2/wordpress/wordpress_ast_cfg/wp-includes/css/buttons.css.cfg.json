@@ -1,0 +1,19 @@
+[
+  ["node_root",584878],
+  ["filename","./wp-includes/css/buttons.css"],
+  ["type",584878,"Entry"],
+  ["image",584878,"main"],
+  ["ast_pt",584878,550968],
+  ["cfg_succ",584878,584881],
+  ["type",584879,"Exit"],
+  ["type",584880,"Dead"],
+  ["type",584881,"Html"],
+  ["ast_pt",584881,550967],
+  ["cfg_succ",584881,584879],
+  ["line_begin",584881,1],
+  ["line_end",584881,427],
+  ["column_begin",584881,1],
+  ["column_end",584881,1],
+  ["token_begin",584881,0],
+  ["token_end",584881,1129]
+]

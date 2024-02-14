@@ -1,0 +1,19 @@
+[
+  ["node_root",584882],
+  ["filename","./wp-includes/css/jquery-ui-dialog.css"],
+  ["type",584882,"Entry"],
+  ["image",584882,"main"],
+  ["ast_pt",584882,550970],
+  ["cfg_succ",584882,584885],
+  ["type",584883,"Exit"],
+  ["type",584884,"Dead"],
+  ["type",584885,"Html"],
+  ["ast_pt",584885,550969],
+  ["cfg_succ",584885,584883],
+  ["line_begin",584885,1],
+  ["line_end",584885,363],
+  ["column_begin",584885,1],
+  ["column_end",584885,1],
+  ["token_begin",584885,0],
+  ["token_end",584885,757]
+]

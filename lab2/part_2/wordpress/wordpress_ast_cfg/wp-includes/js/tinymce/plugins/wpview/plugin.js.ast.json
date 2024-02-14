@@ -1,0 +1,18 @@
+[
+  ["node_root",859895],
+  ["filename","./wp-includes/js/tinymce/plugins/wpview/plugin.js"],
+  ["type",859895,"Start"],
+  ["parsetree_pt",859895,0],
+  ["ast_succ",859895,859894],
+  ["line_end",859895,202],
+  ["column_end",859895,34],
+  ["token_end",859895,731],
+  ["type",859894,"Html"],
+  ["parsetree_pt",859894,2],
+  ["line_begin",859894,1],
+  ["line_end",859894,202],
+  ["column_begin",859894,1],
+  ["column_end",859894,33],
+  ["token_begin",859894,0],
+  ["token_end",859894,730]
+]

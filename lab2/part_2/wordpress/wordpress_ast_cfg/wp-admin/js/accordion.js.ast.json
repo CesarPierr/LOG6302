@@ -1,0 +1,18 @@
+[
+  ["node_root",315996],
+  ["filename","./wp-admin/js/accordion.js"],
+  ["type",315996,"Start"],
+  ["parsetree_pt",315996,0],
+  ["ast_succ",315996,315995],
+  ["line_end",315996,93],
+  ["column_end",315996,12],
+  ["token_end",315996,396],
+  ["type",315995,"Html"],
+  ["parsetree_pt",315995,2],
+  ["line_begin",315995,1],
+  ["line_end",315995,93],
+  ["column_begin",315995,1],
+  ["column_end",315995,11],
+  ["token_begin",315995,0],
+  ["token_end",315995,395]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",23596],
+  ["filename","./wp-content/plugins/akismet/.htaccess"],
+  ["type",23596,"Entry"],
+  ["image",23596,"main"],
+  ["ast_pt",23596,19442],
+  ["cfg_succ",23596,23599],
+  ["type",23597,"Exit"],
+  ["type",23598,"Dead"],
+  ["type",23599,"Html"],
+  ["ast_pt",23599,19441],
+  ["cfg_succ",23599,23597],
+  ["line_begin",23599,1],
+  ["line_end",23599,34],
+  ["column_begin",23599,1],
+  ["column_end",23599,13],
+  ["token_begin",23599,0],
+  ["token_end",23599,82]
+]

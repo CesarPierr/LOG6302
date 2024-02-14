@@ -1,0 +1,19 @@
+[
+  ["node_root",825384],
+  ["filename","./wp-includes/js/jquery/jquery.table-hotkeys.js"],
+  ["type",825384,"Entry"],
+  ["image",825384,"main"],
+  ["ast_pt",825384,860340],
+  ["cfg_succ",825384,825387],
+  ["type",825385,"Exit"],
+  ["type",825386,"Dead"],
+  ["type",825387,"Html"],
+  ["ast_pt",825387,860339],
+  ["cfg_succ",825387,825385],
+  ["line_begin",825387,1],
+  ["line_end",825387,99],
+  ["column_begin",825387,1],
+  ["column_end",825387,11],
+  ["token_begin",825387,0],
+  ["token_end",825387,322]
+]

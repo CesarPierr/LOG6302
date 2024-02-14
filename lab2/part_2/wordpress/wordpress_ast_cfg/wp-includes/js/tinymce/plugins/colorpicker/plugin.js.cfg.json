@@ -1,0 +1,19 @@
+[
+  ["node_root",824679],
+  ["filename","./wp-includes/js/tinymce/plugins/colorpicker/plugin.js"],
+  ["type",824680,"Exit"],
+  ["type",824681,"Dead"],
+  ["type",824682,"Html"],
+  ["ast_pt",824682,859920],
+  ["cfg_succ",824682,824680],
+  ["line_begin",824682,1],
+  ["line_end",824682,255],
+  ["column_begin",824682,1],
+  ["column_end",824682,5],
+  ["token_begin",824682,0],
+  ["token_end",824682,674],
+  ["type",824679,"Entry"],
+  ["image",824679,"main"],
+  ["ast_pt",824679,859921],
+  ["cfg_succ",824679,824682]
+]

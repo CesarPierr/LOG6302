@@ -1,0 +1,19 @@
+[
+  ["node_root",824651],
+  ["filename","./wp-includes/js/tinymce/plugins/wpemoji/plugin.js"],
+  ["type",824652,"Exit"],
+  ["type",824653,"Dead"],
+  ["type",824654,"Html"],
+  ["ast_pt",824654,859906],
+  ["cfg_succ",824654,824652],
+  ["line_begin",824654,1],
+  ["line_end",824654,128],
+  ["column_begin",824654,1],
+  ["column_end",824654,58],
+  ["token_begin",824654,0],
+  ["token_end",824654,489],
+  ["type",824651,"Entry"],
+  ["image",824651,"main"],
+  ["ast_pt",824651,859907],
+  ["cfg_succ",824651,824654]
+]

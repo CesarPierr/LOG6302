@@ -1,0 +1,19 @@
+[
+  ["node_root",825304],
+  ["filename","./wp-includes/js/mce-view.js"],
+  ["type",825304,"Entry"],
+  ["image",825304,"main"],
+  ["ast_pt",825304,860300],
+  ["cfg_succ",825304,825307],
+  ["type",825305,"Exit"],
+  ["type",825306,"Dead"],
+  ["type",825307,"Html"],
+  ["ast_pt",825307,860299],
+  ["cfg_succ",825307,825305],
+  ["line_begin",825307,1],
+  ["line_end",825307,960],
+  ["column_begin",825307,1],
+  ["column_end",825307,67],
+  ["token_begin",825307,0],
+  ["token_end",825307,3576]
+]

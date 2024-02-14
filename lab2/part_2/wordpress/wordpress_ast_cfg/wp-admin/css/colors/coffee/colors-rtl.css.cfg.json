@@ -1,0 +1,19 @@
+[
+  ["node_root",66273],
+  ["filename","./wp-admin/css/colors/coffee/colors-rtl.css"],
+  ["type",66273,"Entry"],
+  ["image",66273,"main"],
+  ["ast_pt",66273,61984],
+  ["cfg_succ",66273,66276],
+  ["type",66275,"Dead"],
+  ["type",66274,"Exit"],
+  ["type",66276,"Html"],
+  ["ast_pt",66276,61983],
+  ["cfg_succ",66276,66274],
+  ["line_begin",66276,1],
+  ["line_end",66276,510],
+  ["column_begin",66276,1],
+  ["column_end",66276,1],
+  ["token_begin",66276,0],
+  ["token_end",66276,1315]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",825292],
+  ["filename","./wp-includes/js/wp-lists.js"],
+  ["type",825292,"Entry"],
+  ["image",825292,"main"],
+  ["ast_pt",825292,860294],
+  ["cfg_succ",825292,825295],
+  ["type",825293,"Exit"],
+  ["type",825294,"Dead"],
+  ["type",825295,"Html"],
+  ["ast_pt",825295,860293],
+  ["cfg_succ",825295,825293],
+  ["line_begin",825295,1],
+  ["line_end",825295,854],
+  ["column_begin",825295,1],
+  ["column_end",825295,15],
+  ["token_begin",825295,0],
+  ["token_end",825295,3384]
+]

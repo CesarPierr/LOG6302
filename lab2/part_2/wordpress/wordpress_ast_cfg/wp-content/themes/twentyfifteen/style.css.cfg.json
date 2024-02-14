@@ -1,0 +1,19 @@
+[
+  ["node_root",23718],
+  ["filename","./wp-content/themes/twentyfifteen/style.css"],
+  ["type",23718,"Entry"],
+  ["image",23718,"main"],
+  ["ast_pt",23718,19534],
+  ["cfg_succ",23718,23721],
+  ["type",23719,"Exit"],
+  ["type",23720,"Dead"],
+  ["type",23721,"Html"],
+  ["ast_pt",23721,19533],
+  ["cfg_succ",23721,23719],
+  ["line_begin",23721,1],
+  ["line_end",23721,6056],
+  ["column_begin",23721,1],
+  ["column_end",23721,1],
+  ["token_begin",23721,0],
+  ["token_end",23721,10850]
+]

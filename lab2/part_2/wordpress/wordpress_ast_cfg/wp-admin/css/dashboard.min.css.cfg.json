@@ -1,0 +1,19 @@
+[
+  ["node_root",65889],
+  ["filename","./wp-admin/css/dashboard.min.css"],
+  ["type",65889,"Entry"],
+  ["image",65889,"main"],
+  ["ast_pt",65889,61792],
+  ["cfg_succ",65889,65892],
+  ["type",65891,"Dead"],
+  ["type",65890,"Exit"],
+  ["type",65892,"Html"],
+  ["ast_pt",65892,61791],
+  ["cfg_succ",65892,65890],
+  ["line_begin",65892,1],
+  ["line_end",65892,1],
+  ["column_begin",65892,1],
+  ["column_end",65892,18911],
+  ["token_begin",65892,0],
+  ["token_end",65892,586]
+]

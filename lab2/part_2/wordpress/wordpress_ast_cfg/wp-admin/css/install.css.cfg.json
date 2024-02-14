@@ -1,0 +1,19 @@
+[
+  ["node_root",65897],
+  ["filename","./wp-admin/css/install.css"],
+  ["type",65897,"Entry"],
+  ["image",65897,"main"],
+  ["ast_pt",65897,61796],
+  ["cfg_succ",65897,65900],
+  ["type",65899,"Dead"],
+  ["type",65898,"Exit"],
+  ["type",65900,"Html"],
+  ["ast_pt",65900,61795],
+  ["cfg_succ",65900,65898],
+  ["line_begin",65900,1],
+  ["line_end",65900,462],
+  ["column_begin",65900,1],
+  ["column_end",65900,1],
+  ["token_begin",65900,0],
+  ["token_end",65900,904]
+]

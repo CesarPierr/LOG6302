@@ -1,0 +1,19 @@
+[
+  ["node_root",450359],
+  ["filename","./wp-includes/wlwmanifest.xml"],
+  ["type",450359,"Entry"],
+  ["image",450359,"main"],
+  ["ast_pt",450359,407602],
+  ["cfg_succ",450359,450362],
+  ["type",450362,"Html"],
+  ["ast_pt",450362,407601],
+  ["cfg_succ",450362,450360],
+  ["line_begin",450362,1],
+  ["line_end",450362,43],
+  ["column_begin",450362,1],
+  ["column_end",450362,11],
+  ["token_begin",450362,0],
+  ["token_end",450362,94],
+  ["type",450360,"Exit"],
+  ["type",450361,"Dead"]
+]

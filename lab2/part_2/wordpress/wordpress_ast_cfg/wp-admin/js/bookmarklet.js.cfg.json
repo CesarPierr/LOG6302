@@ -1,0 +1,19 @@
+[
+  ["node_root",348416],
+  ["filename","./wp-admin/js/bookmarklet.js"],
+  ["type",348417,"Exit"],
+  ["type",348416,"Entry"],
+  ["image",348416,"main"],
+  ["ast_pt",348416,315914],
+  ["cfg_succ",348416,348419],
+  ["type",348419,"Html"],
+  ["ast_pt",348419,315913],
+  ["cfg_succ",348419,348417],
+  ["line_begin",348419,1],
+  ["line_end",348419,156],
+  ["column_begin",348419,1],
+  ["column_end",348419,58],
+  ["token_begin",348419,0],
+  ["token_end",348419,622],
+  ["type",348418,"Dead"]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",584842],
+  ["filename","./wp-includes/css/editor.min.css"],
+  ["type",584842,"Entry"],
+  ["image",584842,"main"],
+  ["ast_pt",584842,550950],
+  ["cfg_succ",584842,584845],
+  ["type",584843,"Exit"],
+  ["type",584844,"Dead"],
+  ["type",584845,"Html"],
+  ["ast_pt",584845,550949],
+  ["cfg_succ",584845,584843],
+  ["line_begin",584845,1],
+  ["line_end",584845,1],
+  ["column_begin",584845,1],
+  ["column_end",584845,28102],
+  ["token_begin",584845,0],
+  ["token_end",584845,770]
+]

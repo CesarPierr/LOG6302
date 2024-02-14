@@ -1,0 +1,19 @@
+[
+  ["node_root",825548],
+  ["filename","./wp-includes/js/jquery/jquery.ui.touch-punch.js"],
+  ["type",825548,"Entry"],
+  ["image",825548,"main"],
+  ["ast_pt",825548,860422],
+  ["cfg_succ",825548,825551],
+  ["type",825549,"Exit"],
+  ["type",825550,"Dead"],
+  ["type",825551,"Html"],
+  ["ast_pt",825551,860421],
+  ["cfg_succ",825551,825549],
+  ["line_begin",825551,1],
+  ["line_end",825551,11],
+  ["column_begin",825551,1],
+  ["column_end",825551,985],
+  ["token_begin",825551,0],
+  ["token_end",825551,39]
+]

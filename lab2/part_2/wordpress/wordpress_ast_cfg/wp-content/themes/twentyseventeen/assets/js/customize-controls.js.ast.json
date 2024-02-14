@@ -1,0 +1,18 @@
+[
+  ["node_root",39358],
+  ["filename","./wp-content/themes/twentyseventeen/assets/js/customize-controls.js"],
+  ["type",39357,"Html"],
+  ["parsetree_pt",39357,2],
+  ["line_begin",39357,1],
+  ["line_end",39357,36],
+  ["column_begin",39357,1],
+  ["column_end",39357,13],
+  ["token_begin",39357,0],
+  ["token_end",39357,152],
+  ["type",39358,"Start"],
+  ["parsetree_pt",39358,0],
+  ["ast_succ",39358,39357],
+  ["line_end",39358,36],
+  ["column_end",39358,14],
+  ["token_end",39358,153]
+]

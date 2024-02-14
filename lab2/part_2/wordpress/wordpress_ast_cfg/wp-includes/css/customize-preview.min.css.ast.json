@@ -1,0 +1,18 @@
+[
+  ["node_root",550976],
+  ["filename","./wp-includes/css/customize-preview.min.css"],
+  ["type",550975,"Html"],
+  ["parsetree_pt",550975,2],
+  ["line_begin",550975,1],
+  ["line_end",550975,1],
+  ["column_begin",550975,1],
+  ["column_end",550975,5183],
+  ["token_begin",550975,0],
+  ["token_end",550975,68],
+  ["type",550976,"Start"],
+  ["parsetree_pt",550976,0],
+  ["ast_succ",550976,550975],
+  ["line_end",550976,1],
+  ["column_end",550976,5183],
+  ["token_end",550976,69]
+]

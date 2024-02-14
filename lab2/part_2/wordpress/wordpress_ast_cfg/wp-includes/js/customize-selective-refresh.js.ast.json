@@ -1,0 +1,18 @@
+[
+  ["node_root",860326],
+  ["filename","./wp-includes/js/customize-selective-refresh.js"],
+  ["type",860325,"Html"],
+  ["parsetree_pt",860325,2],
+  ["line_begin",860325,1],
+  ["line_end",860325,1044],
+  ["column_begin",860325,1],
+  ["column_end",860325,28],
+  ["token_begin",860325,0],
+  ["token_end",860325,4050],
+  ["type",860326,"Start"],
+  ["parsetree_pt",860326,0],
+  ["ast_succ",860326,860325],
+  ["line_end",860326,1044],
+  ["column_end",860326,29],
+  ["token_end",860326,4051]
+]

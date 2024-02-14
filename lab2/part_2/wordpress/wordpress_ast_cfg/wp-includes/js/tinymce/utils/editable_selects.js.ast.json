@@ -1,0 +1,18 @@
+[
+  ["node_root",859867],
+  ["filename","./wp-includes/js/tinymce/utils/editable_selects.js"],
+  ["type",859867,"Start"],
+  ["parsetree_pt",859867,0],
+  ["ast_succ",859867,859866],
+  ["line_end",859867,72],
+  ["column_end",859867,3],
+  ["token_end",859867,197],
+  ["type",859866,"Html"],
+  ["parsetree_pt",859866,2],
+  ["line_begin",859866,1],
+  ["line_end",859866,72],
+  ["column_begin",859866,1],
+  ["column_end",859866,2],
+  ["token_begin",859866,0],
+  ["token_end",859866,196]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",860214],
+  ["filename","./wp-includes/js/mediaelement/wp-playlist.js"],
+  ["type",860213,"Html"],
+  ["parsetree_pt",860213,2],
+  ["line_begin",860213,1],
+  ["line_end",860213,175],
+  ["column_begin",860213,1],
+  ["column_end",860213,24],
+  ["token_begin",860213,0],
+  ["token_end",860213,531],
+  ["type",860214,"Start"],
+  ["parsetree_pt",860214,0],
+  ["ast_succ",860214,860213],
+  ["line_end",860214,175],
+  ["column_end",860214,25],
+  ["token_end",860214,532]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",348616],
+  ["filename","./wp-admin/js/set-post-thumbnail.js"],
+  ["type",348617,"Exit"],
+  ["type",348616,"Entry"],
+  ["image",348616,"main"],
+  ["ast_pt",348616,316014],
+  ["cfg_succ",348616,348619],
+  ["type",348619,"Html"],
+  ["ast_pt",348619,316013],
+  ["cfg_succ",348619,348617],
+  ["line_begin",348619,1],
+  ["line_end",348619,24],
+  ["column_begin",348619,1],
+  ["column_end",348619,1],
+  ["token_begin",348619,0],
+  ["token_end",348619,80],
+  ["type",348618,"Dead"]
+]

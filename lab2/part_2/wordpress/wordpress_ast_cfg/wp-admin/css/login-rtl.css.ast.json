@@ -1,0 +1,18 @@
+[
+  ["node_root",62048],
+  ["filename","./wp-admin/css/login-rtl.css"],
+  ["type",62048,"Start"],
+  ["parsetree_pt",62048,0],
+  ["ast_succ",62048,62047],
+  ["line_end",62048,263],
+  ["column_end",62048,2],
+  ["token_end",62048,548],
+  ["type",62047,"Html"],
+  ["parsetree_pt",62047,2],
+  ["line_begin",62047,1],
+  ["line_end",62047,263],
+  ["column_begin",62047,1],
+  ["column_end",62047,1],
+  ["token_begin",62047,0],
+  ["token_end",62047,547]
+]

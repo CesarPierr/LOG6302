@@ -1,0 +1,19 @@
+[
+  ["node_root",348448],
+  ["filename","./wp-admin/js/customize-controls.js"],
+  ["type",348449,"Exit"],
+  ["type",348448,"Entry"],
+  ["image",348448,"main"],
+  ["ast_pt",348448,315930],
+  ["cfg_succ",348448,348451],
+  ["type",348451,"Html"],
+  ["ast_pt",348451,315929],
+  ["cfg_succ",348451,348449],
+  ["line_begin",348451,1],
+  ["line_end",348451,5520],
+  ["column_begin",348451,1],
+  ["column_end",348451,17],
+  ["token_begin",348451,0],
+  ["token_end",348451,19839],
+  ["type",348450,"Dead"]
+]

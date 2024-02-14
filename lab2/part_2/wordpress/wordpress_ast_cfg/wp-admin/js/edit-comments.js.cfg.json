@@ -1,0 +1,19 @@
+[
+  ["node_root",348464],
+  ["filename","./wp-admin/js/edit-comments.js"],
+  ["type",348465,"Exit"],
+  ["type",348464,"Entry"],
+  ["image",348464,"main"],
+  ["ast_pt",348464,315938],
+  ["cfg_succ",348464,348467],
+  ["type",348467,"Html"],
+  ["ast_pt",348467,315937],
+  ["cfg_succ",348467,348465],
+  ["line_begin",348467,1],
+  ["line_end",348467,970],
+  ["column_begin",348467,1],
+  ["column_end",348467,11],
+  ["token_begin",348467,0],
+  ["token_end",348467,3383],
+  ["type",348466,"Dead"]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",860173],
+  ["filename","./wp-includes/js/quicktags.js"],
+  ["type",860173,"Start"],
+  ["parsetree_pt",860173,0],
+  ["ast_succ",860173,860172],
+  ["line_end",860173,747],
+  ["column_end",860173,6],
+  ["token_end",860173,3179],
+  ["type",860172,"Html"],
+  ["parsetree_pt",860172,2],
+  ["line_begin",860172,1],
+  ["line_end",860172,747],
+  ["column_begin",860172,1],
+  ["column_end",860172,5],
+  ["token_begin",860172,0],
+  ["token_end",860172,3178]
+]

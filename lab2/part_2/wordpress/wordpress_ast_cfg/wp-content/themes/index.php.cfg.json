@@ -1,0 +1,10 @@
+[
+  ["node_root",40120],
+  ["filename","./wp-content/themes/index.php"],
+  ["type",40120,"Entry"],
+  ["image",40120,"main"],
+  ["ast_pt",40120,41510],
+  ["cfg_succ",40120,40121],
+  ["type",40121,"Exit"],
+  ["type",40122,"Dead"]
+]

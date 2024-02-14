@@ -1,0 +1,19 @@
+[
+  ["node_root",825260],
+  ["filename","./wp-includes/js/tw-sack.js"],
+  ["type",825260,"Entry"],
+  ["image",825260,"main"],
+  ["ast_pt",825260,860278],
+  ["cfg_succ",825260,825263],
+  ["type",825261,"Exit"],
+  ["type",825262,"Dead"],
+  ["type",825263,"Html"],
+  ["ast_pt",825263,860277],
+  ["cfg_succ",825263,825261],
+  ["line_begin",825263,1],
+  ["line_end",825263,193],
+  ["column_begin",825263,1],
+  ["column_end",825263,1],
+  ["token_begin",825263,0],
+  ["token_end",825263,502]
+]

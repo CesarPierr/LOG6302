@@ -1,0 +1,18 @@
+[
+  ["node_root",550942],
+  ["filename","./wp-includes/css/editor-rtl.css"],
+  ["type",550941,"Html"],
+  ["parsetree_pt",550941,2],
+  ["line_begin",550941,1],
+  ["line_end",550941,1902],
+  ["column_begin",550941,1],
+  ["column_end",550941,1],
+  ["token_begin",550941,0],
+  ["token_end",550941,3823],
+  ["type",550942,"Start"],
+  ["parsetree_pt",550942,0],
+  ["ast_succ",550942,550941],
+  ["line_end",550942,1902],
+  ["column_end",550942,2],
+  ["token_end",550942,3824]
+]

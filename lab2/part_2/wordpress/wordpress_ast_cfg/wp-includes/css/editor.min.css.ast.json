@@ -1,0 +1,18 @@
+[
+  ["node_root",550950],
+  ["filename","./wp-includes/css/editor.min.css"],
+  ["type",550949,"Html"],
+  ["parsetree_pt",550949,2],
+  ["line_begin",550949,1],
+  ["line_end",550949,1],
+  ["column_begin",550949,1],
+  ["column_end",550949,28102],
+  ["token_begin",550949,0],
+  ["token_end",550949,770],
+  ["type",550950,"Start"],
+  ["parsetree_pt",550950,0],
+  ["ast_succ",550950,550949],
+  ["line_end",550950,1],
+  ["column_end",550950,28102],
+  ["token_end",550950,771]
+]

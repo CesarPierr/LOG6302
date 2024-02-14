@@ -1,0 +1,19 @@
+[
+  ["node_root",584906],
+  ["filename","./wp-includes/css/wp-pointer-rtl.css"],
+  ["type",584906,"Entry"],
+  ["image",584906,"main"],
+  ["ast_pt",584906,550982],
+  ["cfg_succ",584906,584909],
+  ["type",584907,"Exit"],
+  ["type",584908,"Dead"],
+  ["type",584909,"Html"],
+  ["ast_pt",584909,550981],
+  ["cfg_succ",584909,584907],
+  ["line_begin",584909,1],
+  ["line_end",584909,212],
+  ["column_begin",584909,1],
+  ["column_end",584909,1],
+  ["token_begin",584909,0],
+  ["token_end",584909,453]
+]

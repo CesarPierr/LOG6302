@@ -1,0 +1,19 @@
+[
+  ["node_root",825584],
+  ["filename","./wp-includes/js/jquery/jquery.js"],
+  ["type",825584,"Entry"],
+  ["image",825584,"main"],
+  ["ast_pt",825584,860440],
+  ["cfg_succ",825584,825587],
+  ["type",825585,"Exit"],
+  ["type",825586,"Dead"],
+  ["type",825587,"Html"],
+  ["ast_pt",825587,860439],
+  ["cfg_succ",825587,825585],
+  ["line_begin",825587,1],
+  ["line_end",825587,6],
+  ["column_begin",825587,1],
+  ["column_end",825587,20],
+  ["token_begin",825587,0],
+  ["token_end",825587,1621]
+]

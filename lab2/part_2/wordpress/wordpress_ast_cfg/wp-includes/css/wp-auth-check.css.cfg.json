@@ -1,0 +1,19 @@
+[
+  ["node_root",584870],
+  ["filename","./wp-includes/css/wp-auth-check.css"],
+  ["type",584872,"Dead"],
+  ["type",584873,"Html"],
+  ["ast_pt",584873,550963],
+  ["cfg_succ",584873,584871],
+  ["line_begin",584873,1],
+  ["line_end",584873,126],
+  ["column_begin",584873,1],
+  ["column_end",584873,1],
+  ["token_begin",584873,0],
+  ["token_end",584873,269],
+  ["type",584870,"Entry"],
+  ["image",584870,"main"],
+  ["ast_pt",584870,550964],
+  ["cfg_succ",584870,584873],
+  ["type",584871,"Exit"]
+]

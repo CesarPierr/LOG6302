@@ -1,0 +1,18 @@
+[
+  ["node_root",860196],
+  ["filename","./wp-includes/js/wp-backbone.js"],
+  ["type",860196,"Start"],
+  ["parsetree_pt",860196,0],
+  ["ast_succ",860196,860195],
+  ["line_end",860196,386],
+  ["column_end",860196,12],
+  ["token_end",860196,1543],
+  ["type",860195,"Html"],
+  ["parsetree_pt",860195,2],
+  ["line_begin",860195,1],
+  ["line_end",860195,386],
+  ["column_begin",860195,1],
+  ["column_end",860195,11],
+  ["token_begin",860195,0],
+  ["token_end",860195,1542]
+]

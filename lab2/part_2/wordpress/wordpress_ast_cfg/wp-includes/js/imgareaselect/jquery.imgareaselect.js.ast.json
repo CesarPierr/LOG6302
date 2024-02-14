@@ -1,0 +1,18 @@
+[
+  ["node_root",860282],
+  ["filename","./wp-includes/js/imgareaselect/jquery.imgareaselect.js"],
+  ["type",860281,"Html"],
+  ["parsetree_pt",860281,2],
+  ["line_begin",860281,1],
+  ["line_end",860281,1232],
+  ["column_begin",860281,1],
+  ["column_end",860281,11],
+  ["token_begin",860281,0],
+  ["token_end",860281,4430],
+  ["type",860282,"Start"],
+  ["parsetree_pt",860282,0],
+  ["ast_succ",860282,860281],
+  ["line_end",860282,1232],
+  ["column_end",860282,12],
+  ["token_end",860282,4431]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",61884],
+  ["filename","./wp-admin/css/install-rtl.css"],
+  ["type",61883,"Html"],
+  ["parsetree_pt",61883,2],
+  ["line_begin",61883,1],
+  ["line_end",61883,462],
+  ["column_begin",61883,1],
+  ["column_end",61883,1],
+  ["token_begin",61883,0],
+  ["token_end",61883,904],
+  ["type",61884,"Start"],
+  ["parsetree_pt",61884,0],
+  ["ast_succ",61884,61883],
+  ["line_end",61884,462],
+  ["column_end",61884,2],
+  ["token_end",61884,905]
+]

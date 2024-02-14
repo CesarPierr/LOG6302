@@ -1,0 +1,19 @@
+[
+  ["node_root",825022],
+  ["filename","./wp-includes/js/tinymce/tiny_mce_popup.js"],
+  ["type",825022,"Entry"],
+  ["image",825022,"main"],
+  ["ast_pt",825022,860157],
+  ["cfg_succ",825022,825025],
+  ["type",825023,"Exit"],
+  ["type",825024,"Dead"],
+  ["type",825025,"Html"],
+  ["ast_pt",825025,860156],
+  ["cfg_succ",825025,825023],
+  ["line_begin",825025,1],
+  ["line_end",825025,542],
+  ["column_begin",825025,1],
+  ["column_end",825025,2],
+  ["token_begin",825025,0],
+  ["token_end",825025,1934]
+]

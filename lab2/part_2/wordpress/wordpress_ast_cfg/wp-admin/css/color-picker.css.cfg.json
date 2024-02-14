@@ -1,0 +1,19 @@
+[
+  ["node_root",66093],
+  ["filename","./wp-admin/css/color-picker.css"],
+  ["type",66096,"Html"],
+  ["ast_pt",66096,61893],
+  ["cfg_succ",66096,66094],
+  ["line_begin",66096,1],
+  ["line_end",66096,143],
+  ["column_begin",66096,1],
+  ["column_end",66096,1],
+  ["token_begin",66096,0],
+  ["token_end",66096,299],
+  ["type",66093,"Entry"],
+  ["image",66093,"main"],
+  ["ast_pt",66093,61894],
+  ["cfg_succ",66093,66096],
+  ["type",66095,"Dead"],
+  ["type",66094,"Exit"]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",348484],
+  ["filename","./wp-admin/js/farbtastic.js"],
+  ["type",348485,"Exit"],
+  ["type",348484,"Entry"],
+  ["image",348484,"main"],
+  ["ast_pt",348484,315948],
+  ["cfg_succ",348484,348487],
+  ["type",348487,"Html"],
+  ["ast_pt",348487,315947],
+  ["cfg_succ",348487,348485],
+  ["line_begin",348487,1],
+  ["line_end",348487,276],
+  ["column_begin",348487,1],
+  ["column_end",348487,11],
+  ["token_begin",348487,0],
+  ["token_end",348487,1066],
+  ["type",348486,"Dead"]
+]

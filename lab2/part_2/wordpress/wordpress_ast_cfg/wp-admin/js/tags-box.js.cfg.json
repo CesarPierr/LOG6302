@@ -1,0 +1,19 @@
+[
+  ["node_root",348636],
+  ["filename","./wp-admin/js/tags-box.js"],
+  ["type",348637,"Exit"],
+  ["type",348636,"Entry"],
+  ["image",348636,"main"],
+  ["ast_pt",348636,316024],
+  ["cfg_succ",348636,348639],
+  ["type",348639,"Html"],
+  ["ast_pt",348639,316023],
+  ["cfg_succ",348639,348637],
+  ["line_begin",348639,1],
+  ["line_end",348639,263],
+  ["column_begin",348639,1],
+  ["column_end",348639,13],
+  ["token_begin",348639,0],
+  ["token_end",348639,981],
+  ["type",348638,"Dead"]
+]

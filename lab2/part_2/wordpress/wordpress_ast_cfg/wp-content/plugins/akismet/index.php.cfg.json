@@ -1,0 +1,10 @@
+[
+  ["node_root",23600],
+  ["filename","./wp-content/plugins/akismet/index.php"],
+  ["type",23600,"Entry"],
+  ["image",23600,"main"],
+  ["ast_pt",23600,19443],
+  ["cfg_succ",23600,23601],
+  ["type",23601,"Exit"],
+  ["type",23602,"Dead"]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",66189],
+  ["filename","./wp-admin/css/colors/blue/colors.scss"],
+  ["type",66192,"Html"],
+  ["ast_pt",66192,61941],
+  ["cfg_succ",66192,66190],
+  ["line_begin",66192,1],
+  ["line_end",66192,11],
+  ["column_begin",66192,1],
+  ["column_end",66192,25],
+  ["token_begin",66192,0],
+  ["token_end",66192,17],
+  ["type",66189,"Entry"],
+  ["image",66189,"main"],
+  ["ast_pt",66189,61942],
+  ["cfg_succ",66189,66192],
+  ["type",66191,"Dead"],
+  ["type",66190,"Exit"]
+]

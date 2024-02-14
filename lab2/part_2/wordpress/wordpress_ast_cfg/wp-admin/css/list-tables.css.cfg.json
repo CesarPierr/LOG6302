@@ -1,0 +1,19 @@
+[
+  ["node_root",65869],
+  ["filename","./wp-admin/css/list-tables.css"],
+  ["type",65872,"Html"],
+  ["ast_pt",65872,61781],
+  ["cfg_succ",65872,65870],
+  ["line_begin",65872,1],
+  ["line_end",65872,2166],
+  ["column_begin",65872,1],
+  ["column_end",65872,1],
+  ["token_begin",65872,0],
+  ["token_end",65872,4510],
+  ["type",65869,"Entry"],
+  ["image",65869,"main"],
+  ["ast_pt",65869,61782],
+  ["cfg_succ",65869,65872],
+  ["type",65871,"Dead"],
+  ["type",65870,"Exit"]
+]

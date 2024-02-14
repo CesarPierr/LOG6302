@@ -1,0 +1,18 @@
+[
+  ["node_root",859845],
+  ["filename","./wp-includes/js/crop/cropper.js"],
+  ["type",859845,"Start"],
+  ["parsetree_pt",859845,0],
+  ["ast_succ",859845,859844],
+  ["line_end",859845,516],
+  ["column_end",859845,5],
+  ["token_end",859845,879],
+  ["type",859844,"Html"],
+  ["parsetree_pt",859844,2],
+  ["line_begin",859844,1],
+  ["line_end",859844,516],
+  ["column_begin",859844,1],
+  ["column_end",859844,4],
+  ["token_begin",859844,0],
+  ["token_end",859844,878]
+]

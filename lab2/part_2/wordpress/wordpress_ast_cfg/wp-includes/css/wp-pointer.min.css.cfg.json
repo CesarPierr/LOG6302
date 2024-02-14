@@ -1,0 +1,19 @@
+[
+  ["node_root",584858],
+  ["filename","./wp-includes/css/wp-pointer.min.css"],
+  ["type",584858,"Entry"],
+  ["image",584858,"main"],
+  ["ast_pt",584858,550958],
+  ["cfg_succ",584858,584861],
+  ["type",584859,"Exit"],
+  ["type",584860,"Dead"],
+  ["type",584861,"Html"],
+  ["ast_pt",584861,550957],
+  ["cfg_succ",584861,584859],
+  ["line_begin",584861,1],
+  ["line_end",584861,1],
+  ["column_begin",584861,1],
+  ["column_end",584861,3058],
+  ["token_begin",584861,0],
+  ["token_end",584861,74]
+]

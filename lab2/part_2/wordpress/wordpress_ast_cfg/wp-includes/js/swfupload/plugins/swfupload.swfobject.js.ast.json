@@ -1,0 +1,18 @@
+[
+  ["node_root",860238],
+  ["filename","./wp-includes/js/swfupload/plugins/swfupload.swfobject.js"],
+  ["type",860237,"Html"],
+  ["parsetree_pt",860237,2],
+  ["line_begin",860237,1],
+  ["line_end",860237,105],
+  ["column_begin",860237,1],
+  ["column_end",860237,1],
+  ["token_begin",860237,0],
+  ["token_end",860237,395],
+  ["type",860238,"Start"],
+  ["parsetree_pt",860238,0],
+  ["ast_succ",860238,860237],
+  ["line_end",860238,105],
+  ["column_end",860238,2],
+  ["token_end",860238,396]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",580869],
+  ["filename","./wp-includes/images/crystal/license.txt"],
+  ["type",580872,"Html"],
+  ["ast_pt",580872,532676],
+  ["cfg_succ",580872,580870],
+  ["line_begin",580872,1],
+  ["line_end",580872,9],
+  ["column_begin",580872,1],
+  ["column_end",580872,21],
+  ["token_begin",580872,0],
+  ["token_end",580872,15],
+  ["type",580869,"Entry"],
+  ["image",580869,"main"],
+  ["ast_pt",580869,532677],
+  ["cfg_succ",580869,580872],
+  ["type",580870,"Exit"],
+  ["type",580871,"Dead"]
+]

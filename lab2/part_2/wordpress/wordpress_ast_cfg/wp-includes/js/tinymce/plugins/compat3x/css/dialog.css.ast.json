@@ -1,0 +1,18 @@
+[
+  ["node_root",859913],
+  ["filename","./wp-includes/js/tinymce/plugins/compat3x/css/dialog.css"],
+  ["type",859913,"Start"],
+  ["parsetree_pt",859913,0],
+  ["ast_succ",859913,859912],
+  ["line_end",859913,210],
+  ["column_end",859913,2],
+  ["token_end",859913,729],
+  ["type",859912,"Html"],
+  ["parsetree_pt",859912,2],
+  ["line_begin",859912,1],
+  ["line_end",859912,210],
+  ["column_begin",859912,1],
+  ["column_end",859912,1],
+  ["token_begin",859912,0],
+  ["token_end",859912,728]
+]

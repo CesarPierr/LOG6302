@@ -1,0 +1,19 @@
+[
+  ["node_root",348284],
+  ["filename","./wp-admin/js/inline-edit-tax.js"],
+  ["type",348285,"Exit"],
+  ["type",348284,"Entry"],
+  ["image",348284,"main"],
+  ["ast_pt",348284,315848],
+  ["cfg_succ",348284,348287],
+  ["type",348287,"Html"],
+  ["ast_pt",348287,315847],
+  ["cfg_succ",348287,348285],
+  ["line_begin",348287,1],
+  ["line_end",348287,287],
+  ["column_begin",348287,1],
+  ["column_end",348287,24],
+  ["token_begin",348287,0],
+  ["token_end",348287,1043],
+  ["type",348286,"Dead"]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",859975],
+  ["filename","./wp-includes/js/tinymce/themes/inlite/theme.js"],
+  ["type",859975,"Start"],
+  ["parsetree_pt",859975,0],
+  ["ast_succ",859975,859974],
+  ["line_end",859975,2161],
+  ["column_end",859975,6],
+  ["token_end",859975,5301],
+  ["type",859974,"Html"],
+  ["parsetree_pt",859974,2],
+  ["line_begin",859974,1],
+  ["line_end",859974,2161],
+  ["column_begin",859974,1],
+  ["column_end",859974,5],
+  ["token_begin",859974,0],
+  ["token_end",859974,5300]
+]

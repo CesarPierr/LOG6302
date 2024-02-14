@@ -1,0 +1,19 @@
+[
+  ["node_root",825030],
+  ["filename","./wp-includes/js/twemoji.js"],
+  ["type",825032,"Dead"],
+  ["type",825033,"Html"],
+  ["ast_pt",825033,860160],
+  ["cfg_succ",825033,825031],
+  ["line_begin",825033,1],
+  ["line_end",825033,567],
+  ["column_begin",825033,1],
+  ["column_end",825033,5],
+  ["token_begin",825033,0],
+  ["token_end",825033,2229],
+  ["type",825030,"Entry"],
+  ["image",825030,"main"],
+  ["ast_pt",825030,860161],
+  ["cfg_succ",825030,825033],
+  ["type",825031,"Exit"]
+]

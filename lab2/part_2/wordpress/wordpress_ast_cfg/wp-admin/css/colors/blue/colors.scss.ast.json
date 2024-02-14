@@ -1,0 +1,18 @@
+[
+  ["node_root",61942],
+  ["filename","./wp-admin/css/colors/blue/colors.scss"],
+  ["type",61941,"Html"],
+  ["parsetree_pt",61941,2],
+  ["line_begin",61941,1],
+  ["line_end",61941,11],
+  ["column_begin",61941,1],
+  ["column_end",61941,25],
+  ["token_begin",61941,0],
+  ["token_end",61941,17],
+  ["type",61942,"Start"],
+  ["parsetree_pt",61942,0],
+  ["ast_succ",61942,61941],
+  ["line_end",61942,11],
+  ["column_end",61942,26],
+  ["token_end",61942,18]
+]

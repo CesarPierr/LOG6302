@@ -1,0 +1,18 @@
+[
+  ["node_root",61870],
+  ["filename","./wp-admin/css/login.min.css"],
+  ["type",61869,"Html"],
+  ["parsetree_pt",61869,2],
+  ["line_begin",61869,1],
+  ["line_end",61869,1],
+  ["column_begin",61869,1],
+  ["column_end",61869,25477],
+  ["token_begin",61869,0],
+  ["token_end",61869,708],
+  ["type",61870,"Start"],
+  ["parsetree_pt",61870,0],
+  ["ast_succ",61870,61869],
+  ["line_end",61870,1],
+  ["column_end",61870,25477],
+  ["token_end",61870,709]
+]

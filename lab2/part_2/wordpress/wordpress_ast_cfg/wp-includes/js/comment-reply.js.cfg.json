@@ -1,0 +1,19 @@
+[
+  ["node_root",825636],
+  ["filename","./wp-includes/js/comment-reply.js"],
+  ["type",825636,"Entry"],
+  ["image",825636,"main"],
+  ["ast_pt",825636,860466],
+  ["cfg_succ",825636,825639],
+  ["type",825637,"Exit"],
+  ["type",825638,"Dead"],
+  ["type",825639,"Html"],
+  ["ast_pt",825639,860465],
+  ["cfg_succ",825639,825637],
+  ["line_begin",825639,1],
+  ["line_end",825639,96],
+  ["column_begin",825639,1],
+  ["column_end",825639,2],
+  ["token_begin",825639,0],
+  ["token_end",825639,381]
+]

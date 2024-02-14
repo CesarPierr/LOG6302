@@ -1,0 +1,19 @@
+[
+  ["node_root",66033],
+  ["filename","./wp-admin/css/wp-admin.min.css"],
+  ["type",66033,"Entry"],
+  ["image",66033,"main"],
+  ["ast_pt",66033,61864],
+  ["cfg_succ",66033,66036],
+  ["type",66035,"Dead"],
+  ["type",66034,"Exit"],
+  ["type",66036,"Html"],
+  ["ast_pt",66036,61863],
+  ["cfg_succ",66036,66034],
+  ["line_begin",66036,1],
+  ["line_end",66036,14],
+  ["column_begin",66036,1],
+  ["column_end",66036,26],
+  ["token_begin",66036,0],
+  ["token_end",66036,27]
+]

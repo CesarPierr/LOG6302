@@ -1,0 +1,18 @@
+[
+  ["node_root",32204],
+  ["filename","./wp-content/themes/twentysixteen/js/color-scheme-control.js"],
+  ["type",32203,"Html"],
+  ["parsetree_pt",32203,2],
+  ["line_begin",32203,1],
+  ["line_end",32203,96],
+  ["column_begin",32203,1],
+  ["column_end",32203,20],
+  ["token_begin",32203,0],
+  ["token_end",32203,333],
+  ["type",32204,"Start"],
+  ["parsetree_pt",32204,0],
+  ["ast_succ",32204,32203],
+  ["line_end",32204,96],
+  ["column_end",32204,21],
+  ["token_end",32204,334]
+]

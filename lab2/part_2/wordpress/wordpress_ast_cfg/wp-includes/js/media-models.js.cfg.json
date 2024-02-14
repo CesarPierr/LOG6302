@@ -1,0 +1,19 @@
+[
+  ["node_root",825092],
+  ["filename","./wp-includes/js/media-models.js"],
+  ["type",825092,"Entry"],
+  ["image",825092,"main"],
+  ["ast_pt",825092,860194],
+  ["cfg_succ",825092,825095],
+  ["type",825093,"Exit"],
+  ["type",825094,"Dead"],
+  ["type",825095,"Html"],
+  ["ast_pt",825095,860193],
+  ["cfg_succ",825095,825093],
+  ["line_begin",825095,1],
+  ["line_end",825095,1506],
+  ["column_begin",825095,1],
+  ["column_end",825095,15],
+  ["token_begin",825095,0],
+  ["token_end",825095,5592]
+]

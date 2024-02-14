@@ -1,0 +1,18 @@
+[
+  ["node_root",19445],
+  ["filename","./wp-content/plugins/akismet/readme.txt"],
+  ["type",19444,"Html"],
+  ["parsetree_pt",19444,2],
+  ["line_begin",19444,1],
+  ["line_end",19444,376],
+  ["column_begin",19444,1],
+  ["column_end",19444,58],
+  ["token_begin",19444,0],
+  ["token_end",19444,2713],
+  ["type",19445,"Start"],
+  ["parsetree_pt",19445,0],
+  ["ast_succ",19445,19444],
+  ["line_end",19445,376],
+  ["column_end",19445,59],
+  ["token_end",19445,2714]
+]

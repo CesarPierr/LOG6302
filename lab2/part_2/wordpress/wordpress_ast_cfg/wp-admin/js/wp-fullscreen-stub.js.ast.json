@@ -1,0 +1,18 @@
+[
+  ["node_root",315906],
+  ["filename","./wp-admin/js/wp-fullscreen-stub.js"],
+  ["type",315905,"Html"],
+  ["parsetree_pt",315905,2],
+  ["line_begin",315905,1],
+  ["line_end",315905,39],
+  ["column_begin",315905,1],
+  ["column_end",315905,5],
+  ["token_begin",315905,0],
+  ["token_end",315905,93],
+  ["type",315906,"Start"],
+  ["parsetree_pt",315906,0],
+  ["ast_succ",315906,315905],
+  ["line_end",315906,39],
+  ["column_end",315906,6],
+  ["token_end",315906,94]
+]

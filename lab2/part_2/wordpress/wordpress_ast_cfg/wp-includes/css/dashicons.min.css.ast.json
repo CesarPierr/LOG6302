@@ -1,0 +1,18 @@
+[
+  ["node_root",550972],
+  ["filename","./wp-includes/css/dashicons.min.css"],
+  ["type",550971,"Html"],
+  ["parsetree_pt",550971,2],
+  ["line_begin",550971,1],
+  ["line_end",550971,1],
+  ["column_begin",550971,1],
+  ["column_end",550971,46364],
+  ["token_begin",550971,0],
+  ["token_end",550971,9],
+  ["type",550972,"Start"],
+  ["parsetree_pt",550972,0],
+  ["ast_succ",550972,550971],
+  ["line_end",550972,1],
+  ["column_end",550972,46364],
+  ["token_end",550972,10]
+]

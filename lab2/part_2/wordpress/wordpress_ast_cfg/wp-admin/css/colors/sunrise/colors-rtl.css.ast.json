@@ -1,0 +1,18 @@
+[
+  ["node_root",61918],
+  ["filename","./wp-admin/css/colors/sunrise/colors-rtl.css"],
+  ["type",61917,"Html"],
+  ["parsetree_pt",61917,2],
+  ["line_begin",61917,1],
+  ["line_end",61917,510],
+  ["column_begin",61917,1],
+  ["column_end",61917,1],
+  ["token_begin",61917,0],
+  ["token_end",61917,1315],
+  ["type",61918,"Start"],
+  ["parsetree_pt",61918,0],
+  ["ast_succ",61918,61917],
+  ["line_end",61918,510],
+  ["column_end",61918,2],
+  ["token_end",61918,1316]
+]

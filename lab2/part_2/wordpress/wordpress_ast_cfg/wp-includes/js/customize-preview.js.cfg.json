@@ -1,0 +1,19 @@
+[
+  ["node_root",825066],
+  ["filename","./wp-includes/js/customize-preview.js"],
+  ["type",825068,"Dead"],
+  ["type",825069,"Html"],
+  ["ast_pt",825069,860178],
+  ["cfg_succ",825069,825067],
+  ["line_begin",825069,1],
+  ["line_end",825069,844],
+  ["column_begin",825069,1],
+  ["column_end",825069,17],
+  ["token_begin",825069,0],
+  ["token_end",825069,3331],
+  ["type",825066,"Entry"],
+  ["image",825066,"main"],
+  ["ast_pt",825066,860179],
+  ["cfg_succ",825066,825069],
+  ["type",825067,"Exit"]
+]

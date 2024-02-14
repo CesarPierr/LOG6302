@@ -1,0 +1,19 @@
+[
+  ["node_root",824563],
+  ["filename","./wp-includes/js/json2.js"],
+  ["type",824564,"Exit"],
+  ["type",824565,"Dead"],
+  ["type",824566,"Html"],
+  ["ast_pt",824566,859862],
+  ["cfg_succ",824566,824564],
+  ["line_begin",824566,1],
+  ["line_end",824566,519],
+  ["column_begin",824566,1],
+  ["column_end",824566,5],
+  ["token_begin",824566,0],
+  ["token_end",824566,2243],
+  ["type",824563,"Entry"],
+  ["image",824563,"main"],
+  ["ast_pt",824563,859863],
+  ["cfg_succ",824563,824566]
+]

@@ -1,0 +1,19 @@
+[
+  ["node_root",825316],
+  ["filename","./wp-includes/js/customize-models.js"],
+  ["type",825316,"Entry"],
+  ["image",825316,"main"],
+  ["ast_pt",825316,860306],
+  ["cfg_succ",825316,825319],
+  ["type",825317,"Exit"],
+  ["type",825318,"Dead"],
+  ["type",825319,"Html"],
+  ["ast_pt",825319,860305],
+  ["cfg_succ",825319,825317],
+  ["line_begin",825319,1],
+  ["line_end",825319,247],
+  ["column_begin",825319,1],
+  ["column_end",825319,24],
+  ["token_begin",825319,0],
+  ["token_end",825319,549]
+]

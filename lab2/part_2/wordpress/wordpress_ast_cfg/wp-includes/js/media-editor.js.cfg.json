@@ -1,0 +1,19 @@
+[
+  ["node_root",825116],
+  ["filename","./wp-includes/js/media-editor.js"],
+  ["type",825116,"Entry"],
+  ["image",825116,"main"],
+  ["ast_pt",825116,860206],
+  ["cfg_succ",825116,825119],
+  ["type",825117,"Exit"],
+  ["type",825118,"Dead"],
+  ["type",825119,"Html"],
+  ["ast_pt",825119,860205],
+  ["cfg_succ",825119,825117],
+  ["line_begin",825119,1],
+  ["line_end",825119,1110],
+  ["column_begin",825119,1],
+  ["column_end",825119,14],
+  ["token_begin",825119,0],
+  ["token_end",825119,3815]
+]

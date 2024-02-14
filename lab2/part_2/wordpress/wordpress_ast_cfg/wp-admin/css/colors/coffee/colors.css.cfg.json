@@ -1,0 +1,19 @@
+[
+  ["node_root",66265],
+  ["filename","./wp-admin/css/colors/coffee/colors.css"],
+  ["type",66265,"Entry"],
+  ["image",66265,"main"],
+  ["ast_pt",66265,61980],
+  ["cfg_succ",66265,66268],
+  ["type",66267,"Dead"],
+  ["type",66266,"Exit"],
+  ["type",66268,"Html"],
+  ["ast_pt",66268,61979],
+  ["cfg_succ",66268,66266],
+  ["line_begin",66268,1],
+  ["line_end",66268,510],
+  ["column_begin",66268,1],
+  ["column_end",66268,1],
+  ["token_begin",66268,0],
+  ["token_end",66268,1315]
+]

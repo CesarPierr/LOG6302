@@ -1,0 +1,19 @@
+[
+  ["node_root",25445],
+  ["filename","./wp-content/themes/twentyfifteen/genericons/COPYING.txt"],
+  ["type",25445,"Entry"],
+  ["image",25445,"main"],
+  ["ast_pt",25445,24527],
+  ["cfg_succ",25445,25448],
+  ["type",25446,"Exit"],
+  ["type",25447,"Dead"],
+  ["type",25448,"Html"],
+  ["ast_pt",25448,24526],
+  ["cfg_succ",25448,25446],
+  ["line_begin",25448,1],
+  ["line_end",25448,9],
+  ["column_begin",25448,1],
+  ["column_end",25448,204],
+  ["token_begin",25448,0],
+  ["token_end",25448,242]
+]

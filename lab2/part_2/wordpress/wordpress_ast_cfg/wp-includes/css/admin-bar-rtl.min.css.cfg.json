@@ -1,0 +1,19 @@
+[
+  ["node_root",584862],
+  ["filename","./wp-includes/css/admin-bar-rtl.min.css"],
+  ["type",584862,"Entry"],
+  ["image",584862,"main"],
+  ["ast_pt",584862,550960],
+  ["cfg_succ",584862,584865],
+  ["type",584863,"Exit"],
+  ["type",584864,"Dead"],
+  ["type",584865,"Html"],
+  ["ast_pt",584865,550959],
+  ["cfg_succ",584865,584863],
+  ["line_begin",584865,1],
+  ["line_end",584865,1],
+  ["column_begin",584865,1],
+  ["column_end",584865,20633],
+  ["token_begin",584865,0],
+  ["token_end",584865,648]
+]

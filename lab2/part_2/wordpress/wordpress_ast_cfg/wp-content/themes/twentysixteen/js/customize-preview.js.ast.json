@@ -1,0 +1,18 @@
+[
+  ["node_root",32208],
+  ["filename","./wp-content/themes/twentysixteen/js/customize-preview.js"],
+  ["type",32208,"Start"],
+  ["parsetree_pt",32208,0],
+  ["ast_succ",32208,32207],
+  ["line_end",32208,41],
+  ["column_end",32208,15],
+  ["token_end",32208,154],
+  ["type",32207,"Html"],
+  ["parsetree_pt",32207,2],
+  ["line_begin",32207,1],
+  ["line_end",32207,41],
+  ["column_begin",32207,1],
+  ["column_end",32207,14],
+  ["token_begin",32207,0],
+  ["token_end",32207,153]
+]

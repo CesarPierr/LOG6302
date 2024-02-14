@@ -1,0 +1,18 @@
+[
+  ["node_root",61958],
+  ["filename","./wp-admin/css/colors/ocean/colors-rtl.min.css"],
+  ["type",61957,"Html"],
+  ["parsetree_pt",61957,2],
+  ["line_begin",61957,1],
+  ["line_end",61957,1],
+  ["column_begin",61957,1],
+  ["column_end",61957,11473],
+  ["token_begin",61957,0],
+  ["token_end",61957,495],
+  ["type",61958,"Start"],
+  ["parsetree_pt",61958,0],
+  ["ast_succ",61958,61957],
+  ["line_end",61958,1],
+  ["column_end",61958,11473],
+  ["token_end",61958,496]
+]

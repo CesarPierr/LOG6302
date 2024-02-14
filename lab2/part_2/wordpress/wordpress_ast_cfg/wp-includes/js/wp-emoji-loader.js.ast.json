@@ -1,0 +1,18 @@
+[
+  ["node_root",860159],
+  ["filename","./wp-includes/js/wp-emoji-loader.js"],
+  ["type",860159,"Start"],
+  ["parsetree_pt",860159,0],
+  ["ast_succ",860159,860158],
+  ["line_end",860159,161],
+  ["column_end",860159,50],
+  ["token_end",860159,743],
+  ["type",860158,"Html"],
+  ["parsetree_pt",860158,2],
+  ["line_begin",860158,1],
+  ["line_end",860158,161],
+  ["column_begin",860158,1],
+  ["column_end",860158,49],
+  ["token_begin",860158,0],
+  ["token_end",860158,742]
+]

@@ -1,0 +1,18 @@
+[
+  ["node_root",62038],
+  ["filename","./wp-admin/css/farbtastic.css"],
+  ["type",62037,"Html"],
+  ["parsetree_pt",62037,2],
+  ["line_begin",62037,2],
+  ["line_end",62037,41],
+  ["column_begin",62037,1],
+  ["column_end",62037,1],
+  ["token_begin",62037,0],
+  ["token_end",62037,71],
+  ["type",62038,"Start"],
+  ["parsetree_pt",62038,0],
+  ["ast_succ",62038,62037],
+  ["line_end",62038,41],
+  ["column_end",62038,2],
+  ["token_end",62038,72]
+]

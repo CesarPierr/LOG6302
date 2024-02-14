@@ -1,0 +1,19 @@
+[
+  ["node_root",824511],
+  ["filename","./wp-includes/js/wpdialog.js"],
+  ["type",824511,"Entry"],
+  ["image",824511,"main"],
+  ["ast_pt",824511,859837],
+  ["cfg_succ",824511,824514],
+  ["type",824512,"Exit"],
+  ["type",824513,"Dead"],
+  ["type",824514,"Html"],
+  ["ast_pt",824514,859836],
+  ["cfg_succ",824514,824512],
+  ["line_begin",824514,1],
+  ["line_end",824514,19],
+  ["column_begin",824514,1],
+  ["column_end",824514,11],
+  ["token_begin",824514,0],
+  ["token_end",824514,48]
+]
